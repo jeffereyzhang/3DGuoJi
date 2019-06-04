@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 5d6ff8017a1b8714ca1de0c95a4bb512
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '3DGJ_GK_DX_yuanjing '
+    100002: //RootNode
+    100004: 3DGJ_KG_JZ_zakou
+    100006: 3DGJ_KG_JZ_zxx02
+    100008: 3DGJ_KG_JZ_zxx03
+    100010: 3DGJ_KG_JZ_zxx04
+    100012: 3DGJ_KG_JZ_zxx05
+    100014: 3DGJ_KG_JZ_zxx06
+    100016: 3DGJ_KG_JZ_zxx07
+    100018: 3DGJ_KG_JZ_zxx08
+    100020: 3DGJ_KG_JZ_zxx09
+    100022: 3DGJ_KG_JZ_zxx10
+    100024: 3DGJ_KG_JZ_zxx13
+    100026: 3DGJ_KG_JZ_zxx14
+    100028: 3DGJ_KG_JZ_zxx15
+    100030: 3DGJ_KG_JZ_zxx16
+    100032: 3DGJ_KG_JZ_zxx17
+    100034: 3DGJ_KG_JZ_zxx18
+    100036: 3DGJ_KG_JZ_zxx19
+    100038: 3DGJ_KG_JZ_zxx20
+    100040: 3DGJ_KG_JZ_zxx21
+    100042: 3DGJ_KG_JZ_zxx22
+    100044: 3DGJ_KG_JZ_zxx24
+    100046: 3DGJ_KG_JZ_zxx25
+    100048: 3DGJ_KG_JZ_zxx29
+    100050: 3DGJ_KG_JZ_zxx30
+    100052: 3DGJ_KG_JZ_zxx31
+    100054: 3DGJ_KG_JZ_zxx32
+    100056: 3DGJ_KG_JZ_zxx33
+    100058: 3DGJ_KG_JZ_zxx34
+    100060: 3DGJ_KG_JZ_zxx35
+    100062: 3DGJ_KG_JZ_zxx36
+    100064: 3Dguoji_JZ_SFZ_ljw03
+    100066: 3Dguoji_JZ_SFZ_ljw04
+    100068: 3DKG_jizhuangxiang2_xp_wmr
+    100070: 3DKG_jizhuangxiang_xp_wmr
+    100072: 3D GJ_GK_MTGK
+    400000: '3DGJ_GK_DX_yuanjing '
+    400002: //RootNode
+    400004: 3DGJ_KG_JZ_zakou
+    400006: 3DGJ_KG_JZ_zxx02
+    400008: 3DGJ_KG_JZ_zxx03
+    400010: 3DGJ_KG_JZ_zxx04
+    400012: 3DGJ_KG_JZ_zxx05
+    400014: 3DGJ_KG_JZ_zxx06
+    400016: 3DGJ_KG_JZ_zxx07
+    400018: 3DGJ_KG_JZ_zxx08
+    400020: 3DGJ_KG_JZ_zxx09
+    400022: 3DGJ_KG_JZ_zxx10
+    400024: 3DGJ_KG_JZ_zxx13
+    400026: 3DGJ_KG_JZ_zxx14
+    400028: 3DGJ_KG_JZ_zxx15
+    400030: 3DGJ_KG_JZ_zxx16
+    400032: 3DGJ_KG_JZ_zxx17
+    400034: 3DGJ_KG_JZ_zxx18
+    400036: 3DGJ_KG_JZ_zxx19
+    400038: 3DGJ_KG_JZ_zxx20
+    400040: 3DGJ_KG_JZ_zxx21
+    400042: 3DGJ_KG_JZ_zxx22
+    400044: 3DGJ_KG_JZ_zxx24
+    400046: 3DGJ_KG_JZ_zxx25
+    400048: 3DGJ_KG_JZ_zxx29
+    400050: 3DGJ_KG_JZ_zxx30
+    400052: 3DGJ_KG_JZ_zxx31
+    400054: 3DGJ_KG_JZ_zxx32
+    400056: 3DGJ_KG_JZ_zxx33
+    400058: 3DGJ_KG_JZ_zxx34
+    400060: 3DGJ_KG_JZ_zxx35
+    400062: 3DGJ_KG_JZ_zxx36
+    400064: 3Dguoji_JZ_SFZ_ljw03
+    400066: 3Dguoji_JZ_SFZ_ljw04
+    400068: 3DKG_jizhuangxiang2_xp_wmr
+    400070: 3DKG_jizhuangxiang_xp_wmr
+    400072: 3D GJ_GK_MTGK
+    2300000: '3DGJ_GK_DX_yuanjing '
+    2300002: 3DGJ_KG_JZ_zakou
+    2300004: 3DGJ_KG_JZ_zxx02
+    2300006: 3DGJ_KG_JZ_zxx03
+    2300008: 3DGJ_KG_JZ_zxx04
+    2300010: 3DGJ_KG_JZ_zxx05
+    2300012: 3DGJ_KG_JZ_zxx06
+    2300014: 3DGJ_KG_JZ_zxx07
+    2300016: 3DGJ_KG_JZ_zxx08
+    2300018: 3DGJ_KG_JZ_zxx09
+    2300020: 3DGJ_KG_JZ_zxx10
+    2300022: 3DGJ_KG_JZ_zxx13
+    2300024: 3DGJ_KG_JZ_zxx14
+    2300026: 3DGJ_KG_JZ_zxx15
+    2300028: 3DGJ_KG_JZ_zxx16
+    2300030: 3DGJ_KG_JZ_zxx17
+    2300032: 3DGJ_KG_JZ_zxx18
+    2300034: 3DGJ_KG_JZ_zxx29
+    2300036: 3DGJ_KG_JZ_zxx30
+    2300038: 3DGJ_KG_JZ_zxx31
+    2300040: 3DGJ_KG_JZ_zxx32
+    2300042: 3DGJ_KG_JZ_zxx33
+    2300044: 3DGJ_KG_JZ_zxx34
+    2300046: 3DGJ_KG_JZ_zxx35
+    2300048: 3DGJ_KG_JZ_zxx36
+    2300050: 3Dguoji_JZ_SFZ_ljw03
+    2300052: 3Dguoji_JZ_SFZ_ljw04
+    2300054: 3DKG_jizhuangxiang2_xp_wmr
+    2300056: 3DKG_jizhuangxiang_xp_wmr
+    2300058: 3D GJ_GK_MTGK
+    3300000: '3DGJ_GK_DX_yuanjing '
+    3300002: 3DGJ_KG_JZ_zakou
+    3300004: 3DGJ_KG_JZ_zxx02
+    3300006: 3DGJ_KG_JZ_zxx03
+    3300008: 3DGJ_KG_JZ_zxx04
+    3300010: 3DGJ_KG_JZ_zxx05
+    3300012: 3DGJ_KG_JZ_zxx06
+    3300014: 3DGJ_KG_JZ_zxx07
+    3300016: 3DGJ_KG_JZ_zxx08
+    3300018: 3DGJ_KG_JZ_zxx09
+    3300020: 3DGJ_KG_JZ_zxx10
+    3300022: 3DGJ_KG_JZ_zxx13
+    3300024: 3DGJ_KG_JZ_zxx14
+    3300026: 3DGJ_KG_JZ_zxx15
+    3300028: 3DGJ_KG_JZ_zxx16
+    3300030: 3DGJ_KG_JZ_zxx17
+    3300032: 3DGJ_KG_JZ_zxx18
+    3300034: 3DGJ_KG_JZ_zxx29
+    3300036: 3DGJ_KG_JZ_zxx30
+    3300038: 3DGJ_KG_JZ_zxx31
+    3300040: 3DGJ_KG_JZ_zxx32
+    3300042: 3DGJ_KG_JZ_zxx33
+    3300044: 3DGJ_KG_JZ_zxx34
+    3300046: 3DGJ_KG_JZ_zxx35
+    3300048: 3DGJ_KG_JZ_zxx36
+    3300050: 3Dguoji_JZ_SFZ_ljw03
+    3300052: 3Dguoji_JZ_SFZ_ljw04
+    3300054: 3DKG_jizhuangxiang2_xp_wmr
+    3300056: 3DKG_jizhuangxiang_xp_wmr
+    3300058: 3D GJ_GK_MTGK
+    4300000: 3DGJ_KG_JZ_zxx04
+    4300002: 3DGJ_KG_JZ_zxx05
+    4300004: 3DGJ_KG_JZ_zxx06
+    4300006: 3DGJ_KG_JZ_zxx14
+    4300008: 3DGJ_KG_JZ_zxx15
+    4300010: 3DGJ_KG_JZ_zxx16
+    4300012: 3DGJ_KG_JZ_zxx17
+    4300014: 3DGJ_KG_JZ_zxx18
+    4300016: 3DGJ_KG_JZ_zxx30
+    4300018: 3DGJ_KG_JZ_zakou
+    4300020: 3Dguoji_JZ_SFZ_ljw03
+    4300022: 3Dguoji_JZ_SFZ_ljw04
+    4300024: 3DKG_jizhuangxiang2_xp_wmr
+    4300026: 3DGJ_KG_JZ_zxx02
+    4300028: 3DGJ_KG_JZ_zxx03
+    4300030: 3DGJ_KG_JZ_zxx07
+    4300032: 3DGJ_KG_JZ_zxx08
+    4300034: 3DGJ_KG_JZ_zxx09
+    4300036: 3DGJ_KG_JZ_zxx10
+    4300038: 3DGJ_KG_JZ_zxx13
+    4300040: 3DGJ_KG_JZ_zxx29
+    4300042: 3DGJ_KG_JZ_zxx31
+    4300044: 3DGJ_KG_JZ_zxx32
+    4300046: 3DGJ_KG_JZ_zxx33
+    4300048: 3DGJ_KG_JZ_zxx34
+    4300050: 3DGJ_KG_JZ_zxx35
+    4300052: 3DGJ_KG_JZ_zxx36
+    4300054: 3DKG_jizhuangxiang_xp_wmr
+    4300056: '3DGJ_GK_DX_yuanjing '
+    4300058: 3D GJ_GK_MTGK
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

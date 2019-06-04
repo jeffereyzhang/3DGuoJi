@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 56b95094294026d4582b49b34af59e7c
+timeCreated: 1497429282
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "VR-\u706F\u5149001"
+    100002: "VR-\u706F\u5149002"
+    100004: "VR-\u706F\u5149003"
+    100006: "VR-\u706F\u5149004"
+    100008: "VR-\u706F\u5149005"
+    100010: "VR-\u706F\u5149006"
+    100012: "VR-\u706F\u5149007"
+    100014: "VR-\u706F\u5149008"
+    100016: "VR-\u706F\u5149009"
+    100018: "VR-\u706F\u5149010"
+    100020: "VR-\u706F\u5149011"
+    100022: "VR-\u706F\u5149012"
+    100024: "VR-\u706F\u5149013"
+    100026: "VR-\u706F\u5149014"
+    100028: "VR-\u706F\u5149015"
+    100030: "VR-\u706F\u5149016"
+    100032: "VR-\u706F\u5149017"
+    100034: "VR-\u706F\u5149018"
+    100036: VRkg_bangongboli_wmr
+    100038: VRkg_bangongdimian_wmr
+    100040: VRkg_bangongshujia_qyp
+    100042: VRkg_bangongxp_qyp
+    100044: VRkg_bangongyizi_qyp
+    100046: VRkg_bangongzhuozi_qyp
+    100048: VRkg_jinshu_01
+    100050: VRkg_mbs_qyp_02
+    100052: VRkg_panzai1_wmr003
+    100054: VRkg_qiangb1_qyp
+    100056: //RootNode
+    400000: "VR-\u706F\u5149001"
+    400002: "VR-\u706F\u5149002"
+    400004: "VR-\u706F\u5149003"
+    400006: "VR-\u706F\u5149004"
+    400008: "VR-\u706F\u5149005"
+    400010: "VR-\u706F\u5149006"
+    400012: "VR-\u706F\u5149007"
+    400014: "VR-\u706F\u5149008"
+    400016: "VR-\u706F\u5149009"
+    400018: "VR-\u706F\u5149010"
+    400020: "VR-\u706F\u5149011"
+    400022: "VR-\u706F\u5149012"
+    400024: "VR-\u706F\u5149013"
+    400026: "VR-\u706F\u5149014"
+    400028: "VR-\u706F\u5149015"
+    400030: "VR-\u706F\u5149016"
+    400032: "VR-\u706F\u5149017"
+    400034: "VR-\u706F\u5149018"
+    400036: VRkg_bangongboli_wmr
+    400038: VRkg_bangongdimian_wmr
+    400040: VRkg_bangongshujia_qyp
+    400042: VRkg_bangongxp_qyp
+    400044: VRkg_bangongyizi_qyp
+    400046: VRkg_bangongzhuozi_qyp
+    400048: VRkg_jinshu_01
+    400050: VRkg_mbs_qyp_02
+    400052: VRkg_panzai1_wmr003
+    400054: VRkg_qiangb1_qyp
+    400056: //RootNode
+    2300000: VRkg_bangongboli_wmr
+    2300002: VRkg_bangongdimian_wmr
+    2300004: VRkg_bangongshujia_qyp
+    2300006: VRkg_bangongyizi_qyp
+    2300008: VRkg_bangongzhuozi_qyp
+    2300010: VRkg_panzai1_wmr003
+    2300012: VRkg_qiangb1_qyp
+    3300000: VRkg_bangongboli_wmr
+    3300002: VRkg_bangongdimian_wmr
+    3300004: VRkg_bangongshujia_qyp
+    3300006: VRkg_bangongyizi_qyp
+    3300008: VRkg_bangongzhuozi_qyp
+    3300010: VRkg_panzai1_wmr003
+    3300012: VRkg_qiangb1_qyp
+    4300000: VRkg_bangongboli_wmr
+    4300002: VRkg_bangongdimian_wmr
+    4300004: VRkg_qiangb1_qyp
+    4300006: VRkg_bangongzhuozi_qyp
+    4300008: VRkg_bangongyizi_qyp
+    4300010: VRkg_bangongshujia_qyp
+    4300012: VRkg_panzai1_wmr003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

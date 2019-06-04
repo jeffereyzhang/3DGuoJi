@@ -1,0 +1,1059 @@
+fileFormatVersion: 2
+guid: 5aedf4a9c513176499e648d85c1dae14
+timeCreated: 1493870241
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Suit_man_rig_gpp_Ankle_L
+    100004: Suit_man_rig_gpp_Ankle_R
+    100006: Suit_man_rig_gpp_BackA_M
+    100008: Suit_man_rig_gpp_BackB_M
+    100010: Suit_man_rig_gpp_Center_M
+    100012: Suit_man_rig_gpp_CenterExtra_M
+    100014: Suit_man_rig_gpp_CenterOffset_M
+    100016: Suit_man_rig_gpp_Chest_M
+    100018: Suit_man_rig_gpp_Ctr_grp
+    100020: Suit_man_rig_gpp_Cup_L
+    100022: Suit_man_rig_gpp_Cup_R
+    100024: Suit_man_rig_gpp_DeformationSystem
+    100026: Suit_man_rig_gpp_Elbow_L
+    100028: Suit_man_rig_gpp_Elbow_R
+    100030: Suit_man_rig_gpp_FKOffsetRoot_M
+    100032: Suit_man_rig_gpp_FKSystem
+    100034: Suit_man_rig_gpp_Hair_M
+    100036: Suit_man_rig_gpp_Head_M
+    100038: Suit_man_rig_gpp_Hip_L
+    100040: Suit_man_rig_gpp_Hip_R
+    100042: Suit_man_rig_gpp_IndexFinger1_L
+    100044: Suit_man_rig_gpp_IndexFinger1_R
+    100046: Suit_man_rig_gpp_IndexFinger2_L
+    100048: Suit_man_rig_gpp_IndexFinger2_R
+    100050: Suit_man_rig_gpp_IndexFinger3_L
+    100052: Suit_man_rig_gpp_IndexFinger3_R
+    100054: Suit_man_rig_gpp_IndexFinger4_L
+    100056: Suit_man_rig_gpp_IndexFinger4_R
+    100058: Suit_man_rig_gpp_Knee_L
+    100060: Suit_man_rig_gpp_Knee_R
+    100062: Suit_man_rig_gpp_Main
+    100064: Suit_man_rig_gpp_MiddleFinger1_L
+    100066: Suit_man_rig_gpp_MiddleFinger1_R
+    100068: Suit_man_rig_gpp_MiddleFinger2_L
+    100070: Suit_man_rig_gpp_MiddleFinger2_R
+    100072: Suit_man_rig_gpp_MiddleFinger3_L
+    100074: Suit_man_rig_gpp_MiddleFinger3_R
+    100076: Suit_man_rig_gpp_MiddleFinger4_L
+    100078: Suit_man_rig_gpp_MiddleFinger4_R
+    100080: Suit_man_rig_gpp_MiddleToe1_L
+    100082: Suit_man_rig_gpp_MiddleToe1_R
+    100084: Suit_man_rig_gpp_MiddleToe2_L
+    100086: Suit_man_rig_gpp_MiddleToe2_R
+    100088: Suit_man_rig_gpp_MotionSystem
+    100090: Suit_man_rig_gpp_Neck_M
+    100092: Suit_man_rig_gpp_Nose_M
+    100094: Suit_man_rig_gpp_PinkyFinger1_L
+    100096: Suit_man_rig_gpp_PinkyFinger1_R
+    100098: Suit_man_rig_gpp_PinkyFinger2_L
+    100100: Suit_man_rig_gpp_PinkyFinger2_R
+    100102: Suit_man_rig_gpp_PinkyFinger3_L
+    100104: Suit_man_rig_gpp_PinkyFinger3_R
+    100106: Suit_man_rig_gpp_PinkyFinger4_L
+    100108: Suit_man_rig_gpp_PinkyFinger4_R
+    100110: Suit_man_rig_gpp_RingFinger1_L
+    100112: Suit_man_rig_gpp_RingFinger1_R
+    100114: Suit_man_rig_gpp_RingFinger2_L
+    100116: Suit_man_rig_gpp_RingFinger2_R
+    100118: Suit_man_rig_gpp_RingFinger3_L
+    100120: Suit_man_rig_gpp_RingFinger3_R
+    100122: Suit_man_rig_gpp_RingFinger4_L
+    100124: Suit_man_rig_gpp_RingFinger4_R
+    100126: Suit_man_rig_gpp_Root_M
+    100128: Suit_man_rig_gpp_RootCenterBtwLegsBlended_M
+    100130: Suit_man_rig_gpp_Scapula_L
+    100132: Suit_man_rig_gpp_Scapula_R
+    100134: Suit_man_rig_gpp_Shoulder_L
+    100136: Suit_man_rig_gpp_Shoulder_R
+    100138: Suit_man_rig_gpp_suit_man
+    100140: Suit_man_rig_gpp_ThumbFinger1_L
+    100142: Suit_man_rig_gpp_ThumbFinger1_R
+    100144: Suit_man_rig_gpp_ThumbFinger2_L
+    100146: Suit_man_rig_gpp_ThumbFinger2_R
+    100148: Suit_man_rig_gpp_ThumbFinger3_L
+    100150: Suit_man_rig_gpp_ThumbFinger3_R
+    100152: Suit_man_rig_gpp_ThumbFinger4_L
+    100154: Suit_man_rig_gpp_ThumbFinger4_R
+    100156: Suit_man_rig_gpp_Wrist_L
+    100158: Suit_man_rig_gpp_Wrist_R
+    400000: //RootNode
+    400002: Suit_man_rig_gpp_Ankle_L
+    400004: Suit_man_rig_gpp_Ankle_R
+    400006: Suit_man_rig_gpp_BackA_M
+    400008: Suit_man_rig_gpp_BackB_M
+    400010: Suit_man_rig_gpp_Center_M
+    400012: Suit_man_rig_gpp_CenterExtra_M
+    400014: Suit_man_rig_gpp_CenterOffset_M
+    400016: Suit_man_rig_gpp_Chest_M
+    400018: Suit_man_rig_gpp_Ctr_grp
+    400020: Suit_man_rig_gpp_Cup_L
+    400022: Suit_man_rig_gpp_Cup_R
+    400024: Suit_man_rig_gpp_DeformationSystem
+    400026: Suit_man_rig_gpp_Elbow_L
+    400028: Suit_man_rig_gpp_Elbow_R
+    400030: Suit_man_rig_gpp_FKOffsetRoot_M
+    400032: Suit_man_rig_gpp_FKSystem
+    400034: Suit_man_rig_gpp_Hair_M
+    400036: Suit_man_rig_gpp_Head_M
+    400038: Suit_man_rig_gpp_Hip_L
+    400040: Suit_man_rig_gpp_Hip_R
+    400042: Suit_man_rig_gpp_IndexFinger1_L
+    400044: Suit_man_rig_gpp_IndexFinger1_R
+    400046: Suit_man_rig_gpp_IndexFinger2_L
+    400048: Suit_man_rig_gpp_IndexFinger2_R
+    400050: Suit_man_rig_gpp_IndexFinger3_L
+    400052: Suit_man_rig_gpp_IndexFinger3_R
+    400054: Suit_man_rig_gpp_IndexFinger4_L
+    400056: Suit_man_rig_gpp_IndexFinger4_R
+    400058: Suit_man_rig_gpp_Knee_L
+    400060: Suit_man_rig_gpp_Knee_R
+    400062: Suit_man_rig_gpp_Main
+    400064: Suit_man_rig_gpp_MiddleFinger1_L
+    400066: Suit_man_rig_gpp_MiddleFinger1_R
+    400068: Suit_man_rig_gpp_MiddleFinger2_L
+    400070: Suit_man_rig_gpp_MiddleFinger2_R
+    400072: Suit_man_rig_gpp_MiddleFinger3_L
+    400074: Suit_man_rig_gpp_MiddleFinger3_R
+    400076: Suit_man_rig_gpp_MiddleFinger4_L
+    400078: Suit_man_rig_gpp_MiddleFinger4_R
+    400080: Suit_man_rig_gpp_MiddleToe1_L
+    400082: Suit_man_rig_gpp_MiddleToe1_R
+    400084: Suit_man_rig_gpp_MiddleToe2_L
+    400086: Suit_man_rig_gpp_MiddleToe2_R
+    400088: Suit_man_rig_gpp_MotionSystem
+    400090: Suit_man_rig_gpp_Neck_M
+    400092: Suit_man_rig_gpp_Nose_M
+    400094: Suit_man_rig_gpp_PinkyFinger1_L
+    400096: Suit_man_rig_gpp_PinkyFinger1_R
+    400098: Suit_man_rig_gpp_PinkyFinger2_L
+    400100: Suit_man_rig_gpp_PinkyFinger2_R
+    400102: Suit_man_rig_gpp_PinkyFinger3_L
+    400104: Suit_man_rig_gpp_PinkyFinger3_R
+    400106: Suit_man_rig_gpp_PinkyFinger4_L
+    400108: Suit_man_rig_gpp_PinkyFinger4_R
+    400110: Suit_man_rig_gpp_RingFinger1_L
+    400112: Suit_man_rig_gpp_RingFinger1_R
+    400114: Suit_man_rig_gpp_RingFinger2_L
+    400116: Suit_man_rig_gpp_RingFinger2_R
+    400118: Suit_man_rig_gpp_RingFinger3_L
+    400120: Suit_man_rig_gpp_RingFinger3_R
+    400122: Suit_man_rig_gpp_RingFinger4_L
+    400124: Suit_man_rig_gpp_RingFinger4_R
+    400126: Suit_man_rig_gpp_Root_M
+    400128: Suit_man_rig_gpp_RootCenterBtwLegsBlended_M
+    400130: Suit_man_rig_gpp_Scapula_L
+    400132: Suit_man_rig_gpp_Scapula_R
+    400134: Suit_man_rig_gpp_Shoulder_L
+    400136: Suit_man_rig_gpp_Shoulder_R
+    400138: Suit_man_rig_gpp_suit_man
+    400140: Suit_man_rig_gpp_ThumbFinger1_L
+    400142: Suit_man_rig_gpp_ThumbFinger1_R
+    400144: Suit_man_rig_gpp_ThumbFinger2_L
+    400146: Suit_man_rig_gpp_ThumbFinger2_R
+    400148: Suit_man_rig_gpp_ThumbFinger3_L
+    400150: Suit_man_rig_gpp_ThumbFinger3_R
+    400152: Suit_man_rig_gpp_ThumbFinger4_L
+    400154: Suit_man_rig_gpp_ThumbFinger4_R
+    400156: Suit_man_rig_gpp_Wrist_L
+    400158: Suit_man_rig_gpp_Wrist_R
+    4300000: Suit_man_rig_gpp_suit_man
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Suit_man_rig_gpp_suit_man
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Suit_man_rig_gpp_Root_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_BackA_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_BackB_M
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Neck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Head_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Scapula_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Scapula_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Shoulder_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Shoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleToe1_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleToe1_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Hair_M
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_Nose_M
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_RingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_RingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_RingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_RingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_RingFinger2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_RingFinger3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_man_rig_gpp_PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: man_CKS_daiji(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Ctr_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.35386014, z: -0, w: 0.9352984}
+      scale: {x: 0.9, y: 0.9, z: 0.9}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_DeformationSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Root_M
+      position: {x: 0.059321035, y: 0.92935866, z: -0.067174844}
+      rotation: {x: 0.6445793, y: -0.6445793, z: -0.29071912, w: 0.29071912}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_BackA_M
+      position: {x: -0.123343624, y: 2.4868996e-16, z: 1.3322676e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999996, z: 0.9999996}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_BackB_M
+      position: {x: -0.14604482, y: -2.1316282e-16, z: -1.5099033e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Chest_M
+      position: {x: -0.1399122, y: -7.105427e-17, z: -5.3290704e-17}
+      rotation: {x: -0.00000007450579, y: -0.00000007450579, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Scapula_R
+      position: {x: -0.11098901, y: -0.02475197, z: -0.043058172}
+      rotation: {x: -0.4647554, y: 0.46475527, z: -0.5329189, w: -0.5329189}
+      scale: {x: 1.0000015, y: 1.0000002, z: 1.0000015}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Shoulder_R
+      position: {x: -0.10822979, y: 5.1856147e-10, z: -1.4210854e-16}
+      rotation: {x: 0.021871004, y: -0.06647509, z: 0.027176084, w: 0.9971781}
+      scale: {x: 0.9999999, y: 0.9999996, z: 0.9999986}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Elbow_R
+      position: {x: -0.31491843, y: -2.842171e-16, z: 7.105427e-17}
+      rotation: {x: 0.0005995872, y: -0.039404746, z: -0.009666847, w: 0.99917644}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Wrist_R
+      position: {x: -0.27790022, y: -5.684342e-16, z: -7.105427e-17}
+      rotation: {x: -0.000000099469496, y: 0.037801787, z: -0.00000010698571, w: 0.9992853}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger1_R
+      position: {x: -0.09966725, y: -0.004451261, z: 0.0025339632}
+      rotation: {x: 0.0032429786, y: 0.01634562, z: 0.09930546, w: 0.99491745}
+      scale: {x: 1.0000013, y: 0.99999976, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger2_R
+      position: {x: -0.03987194, y: -1.037705e-11, z: -1.2613874e-11}
+      rotation: {x: 0.00000023376191, y: -0.0000014826652, z: -0.03118096, w: 0.9995138}
+      scale: {x: 1.0000012, y: 0.9999995, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger3_R
+      position: {x: -0.032022364, y: -0.0041984916, z: -7.601741e-12}
+      rotation: {x: -0.00000033419062, y: 0.0000007824492, z: 0.030571178, w: 0.9995326}
+      scale: {x: 1.0000006, y: 0.9999998, z: 0.9999997}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger4_R
+      position: {x: -0.039373133, y: -0.0057176882, z: -3.0198067e-16}
+      rotation: {x: 0.000000046094545, y: 0.000000036027735, z: 0.14683446, w: 0.98916113}
+      scale: {x: 1.0000007, y: 0.99999905, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger1_R
+      position: {x: -0.028834224, y: -0.02615205, z: -0.013780261}
+      rotation: {x: -0.6726112, y: -0.32080996, z: -0.16570352, w: 0.64592385}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger2_R
+      position: {x: -0.04614962, y: 5.8676836e-10, z: 5.0441185e-10}
+      rotation: {x: -0.00000014901154, y: -0.0000021606672, z: 0.008029994, w: 0.9999678}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger3_R
+      position: {x: -0.024773821, y: -0.0014420424, z: 3.1102915e-10}
+      rotation: {x: -0.00000015727275, y: 0.0000017358668, z: 0.044969883, w: 0.9989884}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger4_R
+      position: {x: -0.029826526, y: -0.0013713748, z: -0.000000042333635}
+      rotation: {x: 0.000000013555135, y: -0.000000075681356, z: 0.100753464, w: 0.99491143}
+      scale: {x: 1.0000013, y: 1.0000005, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger1_R
+      position: {x: -0.102318764, y: -0.0120573575, z: -0.018180145}
+      rotation: {x: -0.063114524, y: -0.021268224, z: 0.08365752, w: 0.99426645}
+      scale: {x: 1.0000008, y: 0.99999976, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger2_R
+      position: {x: -0.034575883, y: -0.0006029329, z: -2.4487717e-11}
+      rotation: {x: -0.00000018626444, y: 0.0000005830077, z: 0.008890919, w: 0.99996054}
+      scale: {x: 1.000001, y: 0.9999997, z: 1.0000008}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger3_R
+      position: {x: -0.029283427, y: -0.0020391776, z: -2.6179591e-11}
+      rotation: {x: 0.00000017316724, y: -0.0000018696353, z: 0.019463092, w: 0.9998106}
+      scale: {x: 1.0000012, y: 0.99999994, z: 1.0000015}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger4_R
+      position: {x: -0.03152264, y: -0.0033657935, z: -1.0672019e-16}
+      rotation: {x: 0.000000002773003, y: 0.000000033595178, z: 0.1457396, w: 0.989323}
+      scale: {x: 1.0000008, y: 0.9999993, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Cup_R
+      position: {x: -0.014984732, y: -0.00017782015, z: 0.008727173}
+      rotation: {x: -0.00024958834, y: 0.040484283, z: 0.0059332256, w: 0.9991625}
+      scale: {x: 1.0000012, y: 1.0000001, z: 1.000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger1_R
+      position: {x: -0.08154499, y: 0.0022845627, z: 0.03186076}
+      rotation: {x: 0.058183573, y: 0.0036385527, z: 0.084143884, w: 0.9947468}
+      scale: {x: 1.0000007, y: 0.9999994, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger2_R
+      position: {x: -0.032042705, y: -0.00015849058, z: 0.00019698689}
+      rotation: {x: -0.00055332854, y: 0.002061283, z: -0.0023717799, w: 0.99999493}
+      scale: {x: 1.0000013, y: 0.9999999, z: 1.000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger3_R
+      position: {x: -0.025638405, y: -0.0020595288, z: 0.000022404494}
+      rotation: {x: -0.0000025073525, y: 0.0005932603, z: 0.07880307, w: 0.99689}
+      scale: {x: 1.000001, y: 0.9999995, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger4_R
+      position: {x: -0.02578511, y: -0.00011672841, z: -0.0002193913}
+      rotation: {x: 0.000000100375644, y: -0.00000008472318, z: 0.13467805, w: 0.99088943}
+      scale: {x: 1.0000005, y: 0.99999887, z: 0.99999976}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger1_R
+      position: {x: -0.083392665, y: -0.00024939954, z: 0.011029354}
+      rotation: {x: 0.007303164, y: -0.006193897, z: 0.05670536, w: 0.9983451}
+      scale: {x: 1.0000007, y: 0.99999946, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger2_R
+      position: {x: -0.041200407, y: -0.0028904339, z: -1.3100525e-11}
+      rotation: {x: 0.000000505708, y: 0.000001312233, z: 0.025992738, w: 0.99966216}
+      scale: {x: 1.0000014, y: 0.99999934, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger3_R
+      position: {x: -0.029726565, y: -0.0024095182, z: -5.9285554e-12}
+      rotation: {x: -0.00000004827129, y: 0.0000010422723, z: 0.027399868, w: 0.9996246}
+      scale: {x: 1, y: 0.99999946, z: 0.9999993}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger4_R
+      position: {x: -0.033542145, y: -0.0035674965, z: -6.661338e-17}
+      rotation: {x: 0.000000062536095, y: -0.000000040183043, z: 0.14495753, w: 0.98943794}
+      scale: {x: 1.0000014, y: 0.9999999, z: 1.0000011}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Neck_M
+      position: {x: -0.20581703, y: -1.4210854e-16, z: 7.238654e-16}
+      rotation: {x: 0.00000007450579, y: 0.00000007450579, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Head_M
+      position: {x: -0.07737646, y: -2.1316282e-16, z: 6.661338e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Hair_M
+      position: {x: -0.19777533, y: 4.8446304e-16, z: 1.5263252e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Nose_M
+      position: {x: -0.017754367, y: 0.10805108, z: -9.3028484e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Scapula_L
+      position: {x: -0.11098901, y: -0.02475197, z: 0.043058172}
+      rotation: {x: 0.46475533, y: 0.46475527, z: 0.5329188, w: -0.53291893}
+      scale: {x: 1.0000019, y: 1.0000017, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Shoulder_L
+      position: {x: 0.10822979, y: -5.18561e-10, z: 0}
+      rotation: {x: 0.02187095, y: -0.066475034, z: 0.027175913, w: 0.99717814}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Elbow_L
+      position: {x: 0.31491843, y: -2.842171e-16, z: 1.9539925e-16}
+      rotation: {x: 0.0005996504, y: -0.03940509, z: -0.009666655, w: 0.9991764}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Wrist_L
+      position: {x: 0.27790022, y: 3.5527135e-16, z: 1.4210854e-16}
+      rotation: {x: 0.000000029220049, y: 0.037801884, z: 0.0000000046004978, w: 0.9992852}
+      scale: {x: 0.9999995, y: 0.9999993, z: 1.000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger1_L
+      position: {x: 0.09966725, y: 0.004451261, z: -0.0025339632}
+      rotation: {x: -0.0032427846, y: -0.016345555, z: -0.09930464, w: -0.9949176}
+      scale: {x: 0.99999964, y: 1.0000004, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger2_L
+      position: {x: 0.03987194, y: 1.0377192e-11, z: 1.2613874e-11}
+      rotation: {x: 0.00000031525255, y: -0.0000007562336, z: -0.031181943, w: 0.99951375}
+      scale: {x: 1.0000011, y: 1.0000018, z: 1.0000008}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger3_L
+      position: {x: 0.032022364, y: 0.0041984916, z: 7.601777e-12}
+      rotation: {x: 0.00000017497645, y: -0.00000016601807, z: 0.030568222, w: 0.99953276}
+      scale: {x: 0.9999996, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleFinger4_L
+      position: {x: 0.039373133, y: 0.0057176882, z: 5.1514347e-16}
+      rotation: {x: -0.00000013853183, y: -0.00000005964231, z: 0.14683436, w: 0.9891611}
+      scale: {x: 0.9999997, y: 1.000001, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger1_L
+      position: {x: 0.028834224, y: 0.02615205, z: 0.013780261}
+      rotation: {x: -0.6726116, y: -0.32080945, z: -0.16570245, w: 0.6459238}
+      scale: {x: 1.0000004, y: 1, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger2_L
+      position: {x: 0.04614962, y: -5.8676836e-10, z: -5.044121e-10}
+      rotation: {x: 0.000000029802322, y: 0.0000011175871, z: 0.0080311, w: 0.9999678}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger3_L
+      position: {x: 0.024773821, y: 0.0014420424, z: -3.1102898e-10}
+      rotation: {x: 0.00000012657239, y: -0.000003962382, z: 0.04496811, w: 0.99898845}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_ThumbFinger4_L
+      position: {x: 0.029826526, y: 0.0013713748, z: 0.00000004233363}
+      rotation: {x: -0.000000009190458, y: -0.000000089843454, z: -0.1007534, w: -0.9949115}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger1_L
+      position: {x: 0.102318764, y: 0.0120573575, z: 0.018180145}
+      rotation: {x: 0.06311482, y: 0.021266425, z: -0.08365422, w: -0.99426675}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger2_L
+      position: {x: 0.034575883, y: 0.0006029329, z: 2.4487745e-11}
+      rotation: {x: 0.00000007450579, y: 0.0000023674215, z: 0.008885838, w: 0.9999606}
+      scale: {x: 0.9999994, y: 1.0000001, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger3_L
+      position: {x: 0.029283427, y: 0.0020391776, z: 2.6179583e-11}
+      rotation: {x: 0.0000000108514095, y: -0.0000011400438, z: 0.019467626, w: 0.9998105}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_IndexFinger4_L
+      position: {x: 0.03152264, y: 0.0033657935, z: 4.1508463e-16}
+      rotation: {x: -0.000000036946087, y: 0.000000041028887, z: 0.14573945, w: 0.9893231}
+      scale: {x: 0.9999997, y: 1.0000004, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Cup_L
+      position: {x: 0.014984732, y: 0.00017782015, z: -0.008727173}
+      rotation: {x: -0.00024967262, y: 0.04048412, z: 0.005933074, w: 0.99916255}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger1_L
+      position: {x: 0.08154499, y: -0.0022845627, z: -0.03186076}
+      rotation: {x: -0.058183484, y: -0.0036368552, z: -0.084142484, w: -0.994747}
+      scale: {x: 0.9999992, y: 1, z: 1.0000008}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger2_L
+      position: {x: 0.032042705, y: 0.00015849058, z: -0.00019698689}
+      rotation: {x: -0.00055351836, y: 0.0020608997, z: -0.0023720898, w: 0.99999493}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000011}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger3_L
+      position: {x: 0.025638405, y: 0.0020595288, z: -0.000022404487}
+      rotation: {x: -0.0000024432074, y: 0.00059278763, z: 0.07880828, w: 0.9968897}
+      scale: {x: 0.9999999, y: 1, z: 0.9999997}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_PinkyFinger4_L
+      position: {x: 0.02578511, y: 0.00011672841, z: 0.0002193913}
+      rotation: {x: 0.00000004180553, y: -0.000000005907259, z: 0.13467783, w: 0.99088943}
+      scale: {x: 0.9999993, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger1_L
+      position: {x: 0.083392665, y: 0.00024939954, z: -0.011029354}
+      rotation: {x: 0.0073032053, y: -0.006194259, z: 0.056704912, w: 0.9983451}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger2_L
+      position: {x: 0.041200407, y: 0.0028904339, z: 1.3100578e-11}
+      rotation: {x: 0.00000019231803, y: -0.0000014998943, z: -0.025993288, w: -0.99966216}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger3_L
+      position: {x: 0.029726565, y: 0.0024095182, z: 5.9287683e-12}
+      rotation: {x: 0.00000012297669, y: -0.00000035121286, z: 0.027394887, w: 0.9996247}
+      scale: {x: 0.99999976, y: 1.0000007, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RingFinger4_L
+      position: {x: 0.033542145, y: 0.0035674965, z: 3.530509e-16}
+      rotation: {x: 0.000000013406074, y: 0.000000053254137, z: 0.14495772, w: 0.9894379}
+      scale: {x: 0.9999998, y: 1.0000012, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Hip_R
+      position: {x: 0.054997664, y: 0.016046522, z: -0.07611303}
+      rotation: {x: 0.041486412, y: 0.019427493, z: 0.9988441, w: -0.014564931}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.9999997}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Knee_R
+      position: {x: -0.40063575, y: -2.842171e-16, z: 4.6185276e-16}
+      rotation: {x: 0.00000010267829, y: -0.000000010593792, z: -0.0908198, w: 0.9958674}
+      scale: {x: 0.99999875, y: 0.9999988, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Ankle_R
+      position: {x: -0.40444046, y: -4.2632563e-16, z: 4.0856205e-16}
+      rotation: {x: 0.026269494, y: -0.03930899, z: -0.07633497, w: -0.9959607}
+      scale: {x: 0.99999934, y: 1.0000001, z: 0.99999976}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleToe1_R
+      position: {x: -0.05132994, y: -0.07865959, z: -0.015236989}
+      rotation: {x: 0.04473645, y: 0.07574598, z: -0.67364514, w: -0.7338006}
+      scale: {x: 1.0000005, y: 1.000001, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleToe2_R
+      position: {x: -0.11397867, y: -4.52971e-16, z: -1.2434498e-16}
+      rotation: {x: 0.0030843425, y: 0.019409632, z: -0.15690704, w: 0.9874179}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Hip_L
+      position: {x: 0.054997664, y: 0.016046522, z: 0.07611303}
+      rotation: {x: -0.019427521, y: 0.041486543, z: -0.0145649295, w: -0.998844}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Knee_L
+      position: {x: 0.40063575, y: 2.1316282e-16, z: -4.0856205e-16}
+      rotation: {x: 0.000000009313226, y: 0.000000059604645, z: -0.090819724, w: 0.9958674}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Ankle_L
+      position: {x: 0.40444046, y: 2.4868996e-16, z: -5.32907e-16}
+      rotation: {x: 0.026269456, y: -0.03930908, z: -0.076334916, w: -0.99596065}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleToe1_L
+      position: {x: 0.05132994, y: 0.07865959, z: 0.015236987}
+      rotation: {x: -0.044736464, y: -0.07574596, z: 0.6736452, w: 0.73380065}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MiddleToe2_L
+      position: {x: 0.11397867, y: 9.992007e-17, z: 7.105427e-17}
+      rotation: {x: 0.0030843243, y: 0.019409798, z: -0.15690702, w: 0.9874179}
+      scale: {x: 1, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_MotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_FKSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_RootCenterBtwLegsBlended_M
+      position: {x: -0, y: 0.93838763, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_CenterOffset_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_CenterExtra_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_Center_M
+      position: {x: -0.036248248, y: -0.28477463, z: -0.21596377}
+      rotation: {x: 0, y: 0, z: 0.0030458604, w: 0.99999535}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_FKOffsetRoot_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.642613, y: -0.6465396, z: -0.29160327, w: 0.2898323}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_man_rig_gpp_suit_man
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

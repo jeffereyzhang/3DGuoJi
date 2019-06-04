@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 8524598471e5f8c47a0d8e62a52d5044
+timeCreated: 1493870230
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: Suit_women_rig_gpp_Ankle_L
+    100006: Suit_women_rig_gpp_Ankle_R
+    100008: Suit_women_rig_gpp_BackA_M
+    100010: Suit_women_rig_gpp_BackB_M
+    100012: Suit_women_rig_gpp_Center_M
+    100014: Suit_women_rig_gpp_CenterExtra_M
+    100016: Suit_women_rig_gpp_CenterOffset_M
+    100018: Suit_women_rig_gpp_Chest_M
+    100020: Suit_women_rig_gpp_Ctr_grp
+    100022: Suit_women_rig_gpp_Cup_L
+    100024: Suit_women_rig_gpp_Cup_R
+    100026: Suit_women_rig_gpp_DeformationSystem
+    100028: Suit_women_rig_gpp_Elbow_L
+    100030: Suit_women_rig_gpp_Elbow_R
+    100032: Suit_women_rig_gpp_FKExtraHead_M
+    100034: Suit_women_rig_gpp_FKExtraNeck_M
+    100036: Suit_women_rig_gpp_FKHead_M
+    100038: Suit_women_rig_gpp_FKNeck_M
+    100040: Suit_women_rig_gpp_FKOffsetHead_M
+    100042: Suit_women_rig_gpp_FKOffsetNeck_M
+    100044: Suit_women_rig_gpp_FKOffsetRoot_M
+    100046: Suit_women_rig_gpp_FKParentConstraintToChest_M
+    100048: Suit_women_rig_gpp_FKSystem
+    100050: Suit_women_rig_gpp_FKXHair_M
+    100052: Suit_women_rig_gpp_FKXHead_M
+    100054: Suit_women_rig_gpp_FKXNeck_M
+    100056: Suit_women_rig_gpp_FKXNose_M
+    100058: Suit_women_rig_gpp_Hair_M
+    100060: Suit_women_rig_gpp_Head_M
+    100062: Suit_women_rig_gpp_Hip_L
+    100064: Suit_women_rig_gpp_Hip_R
+    100066: Suit_women_rig_gpp_IndexFinger1_L
+    100068: Suit_women_rig_gpp_IndexFinger1_R
+    100070: Suit_women_rig_gpp_IndexFinger2_L
+    100072: Suit_women_rig_gpp_IndexFinger2_R
+    100074: Suit_women_rig_gpp_IndexFinger3_L
+    100076: Suit_women_rig_gpp_IndexFinger3_R
+    100078: Suit_women_rig_gpp_IndexFinger4_L
+    100080: Suit_women_rig_gpp_IndexFinger4_R
+    100082: Suit_women_rig_gpp_Knee_L
+    100084: Suit_women_rig_gpp_Knee_R
+    100086: Suit_women_rig_gpp_Main
+    100088: Suit_women_rig_gpp_MiddleFinger1_L
+    100090: Suit_women_rig_gpp_MiddleFinger1_R
+    100092: Suit_women_rig_gpp_MiddleFinger2_L
+    100094: Suit_women_rig_gpp_MiddleFinger2_R
+    100096: Suit_women_rig_gpp_MiddleFinger3_L
+    100098: Suit_women_rig_gpp_MiddleFinger3_R
+    100100: Suit_women_rig_gpp_MiddleFinger4_L
+    100102: Suit_women_rig_gpp_MiddleFinger4_R
+    100104: Suit_women_rig_gpp_MiddleToe1_L
+    100106: Suit_women_rig_gpp_MiddleToe1_R
+    100108: Suit_women_rig_gpp_MiddleToe2_L
+    100110: Suit_women_rig_gpp_MiddleToe2_R
+    100112: Suit_women_rig_gpp_MotionSystem
+    100114: Suit_women_rig_gpp_Neck_M
+    100116: Suit_women_rig_gpp_Nose_M
+    100118: Suit_women_rig_gpp_PinkyFinger1_L
+    100120: Suit_women_rig_gpp_PinkyFinger1_R
+    100122: Suit_women_rig_gpp_PinkyFinger2_L
+    100124: Suit_women_rig_gpp_PinkyFinger2_R
+    100126: Suit_women_rig_gpp_PinkyFinger3_L
+    100128: Suit_women_rig_gpp_PinkyFinger3_R
+    100130: Suit_women_rig_gpp_PinkyFinger4_L
+    100132: Suit_women_rig_gpp_PinkyFinger4_R
+    100134: Suit_women_rig_gpp_RingFinger1_L
+    100136: Suit_women_rig_gpp_RingFinger1_R
+    100138: Suit_women_rig_gpp_RingFinger2_L
+    100140: Suit_women_rig_gpp_RingFinger2_R
+    100142: Suit_women_rig_gpp_RingFinger3_L
+    100144: Suit_women_rig_gpp_RingFinger3_R
+    100146: Suit_women_rig_gpp_RingFinger4_L
+    100148: Suit_women_rig_gpp_RingFinger4_R
+    100150: Suit_women_rig_gpp_Root_M
+    100152: Suit_women_rig_gpp_RootCenterBtwLegsBlended_M
+    100154: Suit_women_rig_gpp_Scapula_L
+    100156: Suit_women_rig_gpp_Scapula_R
+    100158: Suit_women_rig_gpp_Shoulder_L
+    100160: Suit_women_rig_gpp_Shoulder_R
+    100162: Suit_women_rig_gpp_ThumbFinger1_L
+    100164: Suit_women_rig_gpp_ThumbFinger1_R
+    100166: Suit_women_rig_gpp_ThumbFinger2_L
+    100168: Suit_women_rig_gpp_ThumbFinger2_R
+    100170: Suit_women_rig_gpp_ThumbFinger3_L
+    100172: Suit_women_rig_gpp_ThumbFinger3_R
+    100174: Suit_women_rig_gpp_ThumbFinger4_L
+    100176: Suit_women_rig_gpp_ThumbFinger4_R
+    100178: Suit_women_rig_gpp_Wrist_L
+    100180: Suit_women_rig_gpp_Wrist_R
+    400000: //RootNode
+    400002: body
+    400004: Suit_women_rig_gpp_Ankle_L
+    400006: Suit_women_rig_gpp_Ankle_R
+    400008: Suit_women_rig_gpp_BackA_M
+    400010: Suit_women_rig_gpp_BackB_M
+    400012: Suit_women_rig_gpp_Center_M
+    400014: Suit_women_rig_gpp_CenterExtra_M
+    400016: Suit_women_rig_gpp_CenterOffset_M
+    400018: Suit_women_rig_gpp_Chest_M
+    400020: Suit_women_rig_gpp_Ctr_grp
+    400022: Suit_women_rig_gpp_Cup_L
+    400024: Suit_women_rig_gpp_Cup_R
+    400026: Suit_women_rig_gpp_DeformationSystem
+    400028: Suit_women_rig_gpp_Elbow_L
+    400030: Suit_women_rig_gpp_Elbow_R
+    400032: Suit_women_rig_gpp_FKExtraHead_M
+    400034: Suit_women_rig_gpp_FKExtraNeck_M
+    400036: Suit_women_rig_gpp_FKHead_M
+    400038: Suit_women_rig_gpp_FKNeck_M
+    400040: Suit_women_rig_gpp_FKOffsetHead_M
+    400042: Suit_women_rig_gpp_FKOffsetNeck_M
+    400044: Suit_women_rig_gpp_FKOffsetRoot_M
+    400046: Suit_women_rig_gpp_FKParentConstraintToChest_M
+    400048: Suit_women_rig_gpp_FKSystem
+    400050: Suit_women_rig_gpp_FKXHair_M
+    400052: Suit_women_rig_gpp_FKXHead_M
+    400054: Suit_women_rig_gpp_FKXNeck_M
+    400056: Suit_women_rig_gpp_FKXNose_M
+    400058: Suit_women_rig_gpp_Hair_M
+    400060: Suit_women_rig_gpp_Head_M
+    400062: Suit_women_rig_gpp_Hip_L
+    400064: Suit_women_rig_gpp_Hip_R
+    400066: Suit_women_rig_gpp_IndexFinger1_L
+    400068: Suit_women_rig_gpp_IndexFinger1_R
+    400070: Suit_women_rig_gpp_IndexFinger2_L
+    400072: Suit_women_rig_gpp_IndexFinger2_R
+    400074: Suit_women_rig_gpp_IndexFinger3_L
+    400076: Suit_women_rig_gpp_IndexFinger3_R
+    400078: Suit_women_rig_gpp_IndexFinger4_L
+    400080: Suit_women_rig_gpp_IndexFinger4_R
+    400082: Suit_women_rig_gpp_Knee_L
+    400084: Suit_women_rig_gpp_Knee_R
+    400086: Suit_women_rig_gpp_Main
+    400088: Suit_women_rig_gpp_MiddleFinger1_L
+    400090: Suit_women_rig_gpp_MiddleFinger1_R
+    400092: Suit_women_rig_gpp_MiddleFinger2_L
+    400094: Suit_women_rig_gpp_MiddleFinger2_R
+    400096: Suit_women_rig_gpp_MiddleFinger3_L
+    400098: Suit_women_rig_gpp_MiddleFinger3_R
+    400100: Suit_women_rig_gpp_MiddleFinger4_L
+    400102: Suit_women_rig_gpp_MiddleFinger4_R
+    400104: Suit_women_rig_gpp_MiddleToe1_L
+    400106: Suit_women_rig_gpp_MiddleToe1_R
+    400108: Suit_women_rig_gpp_MiddleToe2_L
+    400110: Suit_women_rig_gpp_MiddleToe2_R
+    400112: Suit_women_rig_gpp_MotionSystem
+    400114: Suit_women_rig_gpp_Neck_M
+    400116: Suit_women_rig_gpp_Nose_M
+    400118: Suit_women_rig_gpp_PinkyFinger1_L
+    400120: Suit_women_rig_gpp_PinkyFinger1_R
+    400122: Suit_women_rig_gpp_PinkyFinger2_L
+    400124: Suit_women_rig_gpp_PinkyFinger2_R
+    400126: Suit_women_rig_gpp_PinkyFinger3_L
+    400128: Suit_women_rig_gpp_PinkyFinger3_R
+    400130: Suit_women_rig_gpp_PinkyFinger4_L
+    400132: Suit_women_rig_gpp_PinkyFinger4_R
+    400134: Suit_women_rig_gpp_RingFinger1_L
+    400136: Suit_women_rig_gpp_RingFinger1_R
+    400138: Suit_women_rig_gpp_RingFinger2_L
+    400140: Suit_women_rig_gpp_RingFinger2_R
+    400142: Suit_women_rig_gpp_RingFinger3_L
+    400144: Suit_women_rig_gpp_RingFinger3_R
+    400146: Suit_women_rig_gpp_RingFinger4_L
+    400148: Suit_women_rig_gpp_RingFinger4_R
+    400150: Suit_women_rig_gpp_Root_M
+    400152: Suit_women_rig_gpp_RootCenterBtwLegsBlended_M
+    400154: Suit_women_rig_gpp_Scapula_L
+    400156: Suit_women_rig_gpp_Scapula_R
+    400158: Suit_women_rig_gpp_Shoulder_L
+    400160: Suit_women_rig_gpp_Shoulder_R
+    400162: Suit_women_rig_gpp_ThumbFinger1_L
+    400164: Suit_women_rig_gpp_ThumbFinger1_R
+    400166: Suit_women_rig_gpp_ThumbFinger2_L
+    400168: Suit_women_rig_gpp_ThumbFinger2_R
+    400170: Suit_women_rig_gpp_ThumbFinger3_L
+    400172: Suit_women_rig_gpp_ThumbFinger3_R
+    400174: Suit_women_rig_gpp_ThumbFinger4_L
+    400176: Suit_women_rig_gpp_ThumbFinger4_R
+    400178: Suit_women_rig_gpp_Wrist_L
+    400180: Suit_women_rig_gpp_Wrist_R
+    4300000: body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Suit_women_rig_gpp_Root_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_BackA_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_BackB_M
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Neck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Head_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Scapula_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Scapula_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Shoulder_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Shoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleToe1_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleToe1_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Hair_M
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_Nose_M
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_RingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_RingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_RingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_RingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_RingFinger2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_RingFinger3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Suit_women_rig_gpp_PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BJ_nv(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Ctr_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 3.2750115e-17, y: 0.9220118, z: -3.2750115e-17, w: -0.38716182}
+      scale: {x: 0.9, y: 0.9, z: 0.9}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_DeformationSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Root_M
+      position: {x: 0.0797126, y: 0.9268226, z: -0.07818027}
+      rotation: {x: 0.6519608, y: -0.6519608, z: 0.27376476, w: -0.27376476}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_BackA_M
+      position: {x: -0.11838514, y: 2.6645352e-17, z: 8.8817837e-17}
+      rotation: {x: 0.70710677, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_BackB_M
+      position: {x: -0.10873639, y: 1.7763567e-16, z: 1.7763568e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Chest_M
+      position: {x: -0.10671054, y: -1.4210854e-16, z: -2.6645352e-17}
+      rotation: {x: -0, y: -0, z: -0, w: -1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Scapula_R
+      position: {x: -0.11027755, y: 7.105427e-17, z: -0.042782154}
+      rotation: {x: 0.49999997, y: -0.5000001, z: 0.50000006, w: 0.49999994}
+      scale: {x: 1, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Shoulder_R
+      position: {x: -0.10996798, y: 0, z: -2.1316282e-16}
+      rotation: {x: 0.016699221, y: 0.0028626465, z: 0.025088945, w: 0.99954164}
+      scale: {x: 1.0000006, y: 1, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Elbow_R
+      position: {x: -0.24348556, y: 2.8209826e-10, z: 0.0000000021524666}
+      rotation: {x: 0.00062023284, y: -0.040611703, z: -0.00966784, w: 0.9991281}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999997}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Wrist_R
+      position: {x: -0.23863755, y: -7.105427e-16, z: -7.105427e-17}
+      rotation: {x: -0.00000004644759, y: 0.020430883, z: 0.000000031133716, w: 0.9997913}
+      scale: {x: 0.9999996, y: 1.0000002, z: 0.9999998}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger1_R
+      position: {x: -0.09018723, y: -0.0012041405, z: -0.005072652}
+      rotation: {x: 0.0024000637, y: -0.018867144, z: 0.08368676, w: 0.99631065}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger2_R
+      position: {x: -0.03961635, y: -1.0318359e-11, z: 8.511431e-11}
+      rotation: {x: -0.00000020046707, y: 0.0000014938405, z: 0.010468171, w: 0.9999453}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger3_R
+      position: {x: -0.021356747, y: -0.0010235119, z: 2.8999416e-11}
+      rotation: {x: 0.00000026676807, y: -0.000003010318, z: 0.02644258, w: 0.9996504}
+      scale: {x: 0.9999995, y: 0.9999997, z: 0.99999946}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger4_R
+      position: {x: -0.029020332, y: -0.0019283643, z: 5.0960547e-10}
+      rotation: {x: 0.000000035015727, y: -0.000000104985425, z: 0.1796154, w: 0.98373693}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger1_R
+      position: {x: -0.039070427, y: -0.017480476, z: -0.018251188}
+      rotation: {x: -0.646069, y: -0.33788618, z: -0.19760893, w: 0.6552698}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger2_R
+      position: {x: -0.029667856, y: 1.5129295e-10, z: 1.4210854e-16}
+      rotation: {x: -0.00051271904, y: 0.015201297, z: 0.045566622, w: 0.9988455}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.9999996}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger3_R
+      position: {x: -0.022415077, y: 0.00055554433, z: -0.0003139268}
+      rotation: {x: 0.00025121152, y: -0.0034200689, z: 0.018811436, w: 0.9998172}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger4_R
+      position: {x: -0.026958227, y: -0.0004522345, z: -0.000000042272365}
+      rotation: {x: -0.00000011052569, y: -0.00000008908706, z: 0.056518544, w: 0.9984015}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger1_R
+      position: {x: -0.0904941, y: -0.0068085035, z: -0.021114932}
+      rotation: {x: -0.0046377643, y: -0.02984874, z: 0.082503855, w: 0.99613285}
+      scale: {x: 1, y: 0.99999964, z: 0.99999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger2_R
+      position: {x: -0.032365043, y: -8.522391e-12, z: -0.0007034506}
+      rotation: {x: 0.0014579664, y: -0.0133385, z: 0.0022045681, w: 0.99990755}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000008}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger3_R
+      position: {x: -0.020647716, y: -0.0012718999, z: 0.00020680284}
+      rotation: {x: -0.00025154074, y: 0.005458339, z: 0.066143565, w: 0.99779516}
+      scale: {x: 0.99999934, y: 0.9999996, z: 0.9999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger4_R
+      position: {x: -0.02647672, y: -0.00016140236, z: -0.00020680239}
+      rotation: {x: 0.00000004039683, y: 0.000000032651382, z: 0.17660268, w: 0.98428226}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Cup_R
+      position: {x: -0.014888676, y: -0.00017668029, z: 0.00867123}
+      rotation: {x: -0.00024966738, y: 0.040484253, z: 0.005933236, w: 0.9991625}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger1_R
+      position: {x: -0.07542672, y: 0.0051364903, z: 0.008558358}
+      rotation: {x: 0.014682926, y: -0.03983795, z: 0.07542319, w: 0.9962473}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger2_R
+      position: {x: -0.029935474, y: 0.0002589158, z: -1.0322374e-11}
+      rotation: {x: -0.000000053085348, y: -0.0000019632266, z: 0.044562526, w: 0.99900657}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999997}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger3_R
+      position: {x: -0.019376285, y: 0.0004886993, z: -5.7474737e-12}
+      rotation: {x: -0.0000002380203, y: 0.0000039019205, z: 0.023242539, w: 0.99972993}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger4_R
+      position: {x: -0.027332637, y: -0.00008473469, z: 4.9655874e-10}
+      rotation: {x: -0.000000031871238, y: 0.000000047706767, z: 0.1595474, w: 0.9871903}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger1_R
+      position: {x: -0.07541822, y: 0.0032010737, z: -0.0041190595}
+      rotation: {x: 0.015983658, y: -0.028359868, z: 0.03770807, w: 0.9987584}
+      scale: {x: 1.0000001, y: 0.99999946, z: 0.99999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger2_R
+      position: {x: -0.03523246, y: -0.002712635, z: -0.0016090148}
+      rotation: {x: 0.0047545633, y: -0.01834128, z: 0.042792253, w: 0.9989044}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger3_R
+      position: {x: -0.023543783, y: -0.0013974876, z: -5.141274e-12}
+      rotation: {x: 0.00000021234148, y: -0.000002074986, z: 0.03783352, w: 0.999284}
+      scale: {x: 1, y: 1, z: 0.9999998}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger4_R
+      position: {x: -0.025467213, y: -0.0014562965, z: 4.5085655e-10}
+      rotation: {x: 0.000000008034203, y: -0.000000027326543, z: 0.17457971, w: 0.9846431}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Neck_M
+      position: {x: -0.20449768, y: -1.4210854e-16, z: 6.8389737e-16}
+      rotation: {x: -0, y: -0, z: -0, w: -1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Head_M
+      position: {x: -0.04291164, y: -2.842171e-16, z: 1.7763568e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Hair_M
+      position: {x: -0.21170306, y: 2.059246e-16, z: -4.4152273e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Nose_M
+      position: {x: -0.041992515, y: 0.13197184, z: -5.055729e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Scapula_L
+      position: {x: -0.11027755, y: 0, z: 0.042782154}
+      rotation: {x: -0.5000003, y: -0.49999982, z: -0.4999999, w: 0.49999994}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Shoulder_L
+      position: {x: 0.10996798, y: 4.2632563e-16, z: 1.4210854e-16}
+      rotation: {x: 0.016699463, y: 0.002862841, z: 0.025088549, w: 0.9995417}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Elbow_L
+      position: {x: 0.24348556, y: -2.8209804e-10, z: -0.0000000021524664}
+      rotation: {x: 0.00062019547, y: -0.040611964, z: -0.009667593, w: 0.99912804}
+      scale: {x: 0.99999946, y: 0.99999964, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Wrist_L
+      position: {x: 0.23863755, y: 5.684342e-16, z: 2.1316282e-16}
+      rotation: {x: 0.000000004005304, y: 0.020431036, z: 0.00000014207393, w: 0.9997913}
+      scale: {x: 1.0000008, y: 1.0000011, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger1_L
+      position: {x: 0.09018723, y: 0.0012041405, z: 0.005072652}
+      rotation: {x: -0.0024000346, y: 0.018865254, z: -0.08368957, w: -0.9963105}
+      scale: {x: 1.0000015, y: 1.0000014, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger2_L
+      position: {x: 0.03961635, y: 1.03186435e-11, z: -8.511441e-11}
+      rotation: {x: -0.000000050058564, y: -0.0000016801051, z: 0.010461909, w: 0.99994534}
+      scale: {x: 0.9999998, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger3_L
+      position: {x: 0.021356747, y: 0.0010235119, z: -3.6237322e-11}
+      rotation: {x: -0.00000033026322, y: 0.000002199584, z: 0.026447788, w: 0.99965024}
+      scale: {x: 1, y: 1.0000004, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleFinger4_L
+      position: {x: 0.029020332, y: 0.0019283642, z: -3.1982594e-10}
+      rotation: {x: -0.000000028388989, y: -0.000000037734615, z: 0.1796152, w: 0.983737}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.9999998}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger1_L
+      position: {x: 0.039070427, y: 0.017480476, z: 0.018251188}
+      rotation: {x: -0.6460688, y: -0.33788648, z: -0.19761002, w: 0.65526944}
+      scale: {x: 1.0000012, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger2_L
+      position: {x: 0.029667856, y: -1.5129296e-10, z: -1.4210854e-16}
+      rotation: {x: -0.0005124807, y: 0.015199004, z: 0.045571696, w: 0.99884534}
+      scale: {x: 1.000001, y: 1.0000012, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger3_L
+      position: {x: 0.022415077, y: -0.00055554433, z: 0.0003139268}
+      rotation: {x: -0.0002514074, y: 0.003417873, z: -0.018820573, w: -0.9998171}
+      scale: {x: 1.0000011, y: 1.0000001, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_ThumbFinger4_L
+      position: {x: 0.026958227, y: 0.00045223426, z: 0.000000042113786}
+      rotation: {x: 0.000000018328068, y: -0.000000072574004, z: 0.056518637, w: 0.9984015}
+      scale: {x: 1.0000012, y: 1.0000011, z: 1.000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger1_L
+      position: {x: 0.0904941, y: 0.0068085035, z: 0.021114932}
+      rotation: {x: 0.004638324, y: 0.029850036, z: -0.08250632, w: -0.9961327}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger2_L
+      position: {x: 0.032365043, y: 0, z: 0.0007034505}
+      rotation: {x: 0.001456969, y: -0.013343516, z: 0.0022088364, w: 0.9999075}
+      scale: {x: 0.999999, y: 0.9999991, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger3_L
+      position: {x: 0.020647716, y: 0.0012718999, z: -0.00020680284}
+      rotation: {x: -0.00025185273, y: 0.0054629603, z: 0.06613667, w: 0.9977956}
+      scale: {x: 1.0000007, y: 1.000001, z: 0.99999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_IndexFinger4_L
+      position: {x: 0.02647672, y: 0.00016140226, z: 0.00020680256}
+      rotation: {x: -0.00000008529452, y: 0.00000003859579, z: 0.17660286, w: 0.98428226}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Cup_L
+      position: {x: 0.014888676, y: 0.00017668029, z: -0.00867123}
+      rotation: {x: -0.0002496611, y: 0.040484194, z: 0.0059332587, w: 0.9991626}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger1_L
+      position: {x: 0.07542672, y: -0.0051364903, z: -0.008558358}
+      rotation: {x: -0.014682913, y: 0.03983787, z: -0.07542264, w: -0.9962474}
+      scale: {x: 0.9999994, y: 0.9999995, z: 0.99999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger2_L
+      position: {x: 0.029935474, y: -0.0002589158, z: -7.105427e-17}
+      rotation: {x: -0.00000013504169, y: -0.00000011548393, z: 0.044567548, w: 0.9990064}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999976}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger3_L
+      position: {x: 0.019376285, y: -0.00048869936, z: -5.3290704e-17}
+      rotation: {x: -0.00000013435324, y: -0.0000025067911, z: 0.023240699, w: 0.99972993}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_PinkyFinger4_L
+      position: {x: 0.027332637, y: 0.00008473457, z: -2.8787667e-10}
+      rotation: {x: 0.00000006465907, y: -0.000000111653875, z: 0.15954746, w: 0.9871903}
+      scale: {x: 0.99999994, y: 1.0000006, z: 0.99999976}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger1_L
+      position: {x: 0.07541822, y: -0.0032010737, z: 0.0041190595}
+      rotation: {x: -0.015983004, y: 0.028360726, z: -0.037710328, w: -0.9987584}
+      scale: {x: 0.99999905, y: 0.9999988, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger2_L
+      position: {x: 0.03523246, y: 0.002712635, z: 0.0016090148}
+      rotation: {x: 0.004754119, y: -0.018340511, z: 0.042784296, w: 0.99890465}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger3_L
+      position: {x: 0.023543783, y: 0.0013974876, z: 1.2212454e-16}
+      rotation: {x: 0.00000014947716, y: -0.0000024754536, z: 0.037835777, w: 0.99928397}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999999}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RingFinger4_L
+      position: {x: 0.025467213, y: 0.0014562964, z: -2.8183342e-10}
+      rotation: {x: 0.000000038264414, y: 0.00000005762039, z: 0.17457959, w: 0.98464304}
+      scale: {x: 0.9999998, y: 1.0000004, z: 0.99999994}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Hip_R
+      position: {x: 0.054645114, y: 0.07562513, z: 0.01594366}
+      rotation: {x: 0.02341929, y: -0.66362715, z: 0.7469678, w: -0.03301066}
+      scale: {x: 0.9999994, y: 1.000001, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Knee_R
+      position: {x: -0.32763952, y: -7.105427e-17, z: -8.8817837e-17}
+      rotation: {x: 0.0000000924847, y: 0.000000015133992, z: -0.04822798, w: 0.9988364}
+      scale: {x: 1.0000015, y: 0.9999995, z: 1.0000011}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Ankle_R
+      position: {x: -0.44939935, y: -5.7731595e-17, z: 1.7763567e-16}
+      rotation: {x: 0.003929141, y: 0.03961422, z: 0.038844682, w: 0.998452}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleToe1_R
+      position: {x: -0.07357442, y: -0.05624898, z: -0.011799923}
+      rotation: {x: -0.007843483, y: 0.015520766, z: 0.643891, w: 0.7649197}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000006}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleToe2_R
+      position: {x: -0.114982545, y: -8.881784e-18, z: 5.3290704e-17}
+      rotation: {x: -0.0020766295, y: -0.017483244, z: -0.11793152, w: 0.9928657}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1.0000015}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Hip_L
+      position: {x: 0.054645114, y: -0.07562513, z: 0.01594366}
+      rotation: {x: -0.7469678, y: 0.03301069, z: 0.023419306, w: -0.66362715}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Knee_L
+      position: {x: 0.32763952, y: 0, z: 2.6645352e-17}
+      rotation: {x: -0, y: -0.000000109896064, z: 0.04822801, w: -0.9988364}
+      scale: {x: 1.0000005, y: 1.0000018, z: 1.000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Ankle_L
+      position: {x: 0.44939935, y: 2.0428103e-16, z: -1.7763567e-16}
+      rotation: {x: -0.003929116, y: -0.039614104, z: -0.038844764, w: -0.998452}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleToe1_L
+      position: {x: 0.07357442, y: 0.05624898, z: 0.011799923}
+      rotation: {x: 0.007843447, y: -0.015520772, z: -0.6438909, w: -0.7649197}
+      scale: {x: 1.0000004, y: 1, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MiddleToe2_L
+      position: {x: 0.114982545, y: 3.5527136e-17, z: 1.2434498e-16}
+      rotation: {x: -0.002076591, y: -0.017483287, z: -0.11793161, w: 0.9928657}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000005}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_MotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKParentConstraintToChest_M
+      position: {x: -0.045343775, y: 0.90638036, z: -0.24694175}
+      rotation: {x: -0.5372873, y: 0.4572154, z: 0.5528085, w: -0.4434854}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKOffsetNeck_M
+      position: {x: -0.20449768, y: -1.6395949e-16, z: 7.545505e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKExtraNeck_M
+      position: {x: -0, y: 0, z: -2.5243548e-31}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKNeck_M
+      position: {x: -0, y: -6.310887e-32, z: -2.5243548e-31}
+      rotation: {x: 0, y: 0, z: 0.016939227, w: 0.99985653}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKXNeck_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKOffsetHead_M
+      position: {x: -0.04291164, y: -2.49936e-16, z: 4.3675484e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKExtraHead_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKHead_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKXHead_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.9186736, y: -0.06609758, z: 0.04359908, w: 0.38700008}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.000001}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKXHair_M
+      position: {x: -0.21170306, y: 3.5383126e-16, z: 2.0969853e-16}
+      rotation: {x: -0, y: 0.0000000018626451, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKXNose_M
+      position: {x: -0.041992515, y: 0.13197184, z: 1.2176239e-16}
+      rotation: {x: -0, y: 0.0000000018626451, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000007}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_RootCenterBtwLegsBlended_M
+      position: {x: -0, y: 0.93237233, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_CenterOffset_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_CenterExtra_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_Center_M
+      position: {x: -0.048484653, y: -0.35872898, z: -0.2672718}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Suit_women_rig_gpp_FKOffsetRoot_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.65196085, y: -0.65196085, z: 0.27376476, w: -0.27376476}
+      scale: {x: 1.0000011, y: 1.0000011, z: 1.0000012}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1490 @@
+fileFormatVersion: 2
+guid: 87ae433fc2281454dab59aabf277e360
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FCZ_ex_CKSYWY_rig_v1_Ankle_L
+    100004: FCZ_ex_CKSYWY_rig_v1_Ankle_R
+    100006: FCZ_ex_CKSYWY_rig_v1_BackA_M
+    100008: FCZ_ex_CKSYWY_rig_v1_BackB_M
+    100010: FCZ_ex_CKSYWY_rig_v1_body
+    100012: FCZ_ex_CKSYWY_rig_v1_Center_M
+    100014: FCZ_ex_CKSYWY_rig_v1_CenterExtra_M
+    100016: FCZ_ex_CKSYWY_rig_v1_CenterOffset_M
+    100018: FCZ_ex_CKSYWY_rig_v1_Chest_M
+    100020: FCZ_ex_CKSYWY_rig_v1_Cup_L
+    100022: FCZ_ex_CKSYWY_rig_v1_Cup_R
+    100024: FCZ_ex_CKSYWY_rig_v1_DeformationSystem
+    100026: FCZ_ex_CKSYWY_rig_v1_Elbow_L
+    100028: FCZ_ex_CKSYWY_rig_v1_Elbow_R
+    100030: FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M
+    100032: FCZ_ex_CKSYWY_rig_v1_FKOffsetBackA_M
+    100034: FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M
+    100036: FCZ_ex_CKSYWY_rig_v1_FKRoot_M
+    100038: FCZ_ex_CKSYWY_rig_v1_FKSystem
+    100040: FCZ_ex_CKSYWY_rig_v1_FKXRoot_M
+    100042: FCZ_ex_CKSYWY_rig_v1_Hair_M
+    100044: FCZ_ex_CKSYWY_rig_v1_Head_M
+    100046: FCZ_ex_CKSYWY_rig_v1_Hip_L
+    100048: FCZ_ex_CKSYWY_rig_v1_Hip_R
+    100050: FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M
+    100052: FCZ_ex_CKSYWY_rig_v1_HipSwingerStabalizeRoot_M
+    100054: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L
+    100056: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R
+    100058: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L
+    100060: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R
+    100062: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L
+    100064: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R
+    100066: FCZ_ex_CKSYWY_rig_v1_IndexFinger4_L
+    100068: FCZ_ex_CKSYWY_rig_v1_IndexFinger4_R
+    100070: FCZ_ex_CKSYWY_rig_v1_Knee_L
+    100072: FCZ_ex_CKSYWY_rig_v1_Knee_R
+    100074: FCZ_ex_CKSYWY_rig_v1_Main
+    100076: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L
+    100078: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R
+    100080: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L
+    100082: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R
+    100084: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L
+    100086: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R
+    100088: FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_L
+    100090: FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_R
+    100092: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L
+    100094: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R
+    100096: FCZ_ex_CKSYWY_rig_v1_MiddleToe2_L
+    100098: FCZ_ex_CKSYWY_rig_v1_MiddleToe2_R
+    100100: FCZ_ex_CKSYWY_rig_v1_MotionSystem
+    100102: FCZ_ex_CKSYWY_rig_v1_Neck_M
+    100104: FCZ_ex_CKSYWY_rig_v1_Nose_M
+    100106: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L
+    100108: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R
+    100110: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L
+    100112: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R
+    100114: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L
+    100116: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R
+    100118: FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_L
+    100120: FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_R
+    100122: FCZ_ex_CKSYWY_rig_v1_RingFinger1_L
+    100124: FCZ_ex_CKSYWY_rig_v1_RingFinger1_R
+    100126: FCZ_ex_CKSYWY_rig_v1_RingFinger2_L
+    100128: FCZ_ex_CKSYWY_rig_v1_RingFinger2_R
+    100130: FCZ_ex_CKSYWY_rig_v1_RingFinger3_L
+    100132: FCZ_ex_CKSYWY_rig_v1_RingFinger3_R
+    100134: FCZ_ex_CKSYWY_rig_v1_RingFinger4_L
+    100136: FCZ_ex_CKSYWY_rig_v1_RingFinger4_R
+    100138: FCZ_ex_CKSYWY_rig_v1_Root_M
+    100140: FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M
+    100142: FCZ_ex_CKSYWY_rig_v1_Scapula_L
+    100144: FCZ_ex_CKSYWY_rig_v1_Scapula_R
+    100146: FCZ_ex_CKSYWY_rig_v1_Shoulder_L
+    100148: FCZ_ex_CKSYWY_rig_v1_Shoulder_R
+    100150: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L
+    100152: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R
+    100154: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L
+    100156: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R
+    100158: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L
+    100160: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R
+    100162: FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_L
+    100164: FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_R
+    100166: FCZ_ex_CKSYWY_rig_v1_Wrist_L
+    100168: FCZ_ex_CKSYWY_rig_v1_Wrist_R
+    400000: //RootNode
+    400002: FCZ_ex_CKSYWY_rig_v1_Ankle_L
+    400004: FCZ_ex_CKSYWY_rig_v1_Ankle_R
+    400006: FCZ_ex_CKSYWY_rig_v1_BackA_M
+    400008: FCZ_ex_CKSYWY_rig_v1_BackB_M
+    400010: FCZ_ex_CKSYWY_rig_v1_body
+    400012: FCZ_ex_CKSYWY_rig_v1_Center_M
+    400014: FCZ_ex_CKSYWY_rig_v1_CenterExtra_M
+    400016: FCZ_ex_CKSYWY_rig_v1_CenterOffset_M
+    400018: FCZ_ex_CKSYWY_rig_v1_Chest_M
+    400020: FCZ_ex_CKSYWY_rig_v1_Cup_L
+    400022: FCZ_ex_CKSYWY_rig_v1_Cup_R
+    400024: FCZ_ex_CKSYWY_rig_v1_DeformationSystem
+    400026: FCZ_ex_CKSYWY_rig_v1_Elbow_L
+    400028: FCZ_ex_CKSYWY_rig_v1_Elbow_R
+    400030: FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M
+    400032: FCZ_ex_CKSYWY_rig_v1_FKOffsetBackA_M
+    400034: FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M
+    400036: FCZ_ex_CKSYWY_rig_v1_FKRoot_M
+    400038: FCZ_ex_CKSYWY_rig_v1_FKSystem
+    400040: FCZ_ex_CKSYWY_rig_v1_FKXRoot_M
+    400042: FCZ_ex_CKSYWY_rig_v1_Hair_M
+    400044: FCZ_ex_CKSYWY_rig_v1_Head_M
+    400046: FCZ_ex_CKSYWY_rig_v1_Hip_L
+    400048: FCZ_ex_CKSYWY_rig_v1_Hip_R
+    400050: FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M
+    400052: FCZ_ex_CKSYWY_rig_v1_HipSwingerStabalizeRoot_M
+    400054: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L
+    400056: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R
+    400058: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L
+    400060: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R
+    400062: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L
+    400064: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R
+    400066: FCZ_ex_CKSYWY_rig_v1_IndexFinger4_L
+    400068: FCZ_ex_CKSYWY_rig_v1_IndexFinger4_R
+    400070: FCZ_ex_CKSYWY_rig_v1_Knee_L
+    400072: FCZ_ex_CKSYWY_rig_v1_Knee_R
+    400074: FCZ_ex_CKSYWY_rig_v1_Main
+    400076: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L
+    400078: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R
+    400080: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L
+    400082: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R
+    400084: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L
+    400086: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R
+    400088: FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_L
+    400090: FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_R
+    400092: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L
+    400094: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R
+    400096: FCZ_ex_CKSYWY_rig_v1_MiddleToe2_L
+    400098: FCZ_ex_CKSYWY_rig_v1_MiddleToe2_R
+    400100: FCZ_ex_CKSYWY_rig_v1_MotionSystem
+    400102: FCZ_ex_CKSYWY_rig_v1_Neck_M
+    400104: FCZ_ex_CKSYWY_rig_v1_Nose_M
+    400106: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L
+    400108: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R
+    400110: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L
+    400112: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R
+    400114: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L
+    400116: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R
+    400118: FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_L
+    400120: FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_R
+    400122: FCZ_ex_CKSYWY_rig_v1_RingFinger1_L
+    400124: FCZ_ex_CKSYWY_rig_v1_RingFinger1_R
+    400126: FCZ_ex_CKSYWY_rig_v1_RingFinger2_L
+    400128: FCZ_ex_CKSYWY_rig_v1_RingFinger2_R
+    400130: FCZ_ex_CKSYWY_rig_v1_RingFinger3_L
+    400132: FCZ_ex_CKSYWY_rig_v1_RingFinger3_R
+    400134: FCZ_ex_CKSYWY_rig_v1_RingFinger4_L
+    400136: FCZ_ex_CKSYWY_rig_v1_RingFinger4_R
+    400138: FCZ_ex_CKSYWY_rig_v1_Root_M
+    400140: FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M
+    400142: FCZ_ex_CKSYWY_rig_v1_Scapula_L
+    400144: FCZ_ex_CKSYWY_rig_v1_Scapula_R
+    400146: FCZ_ex_CKSYWY_rig_v1_Shoulder_L
+    400148: FCZ_ex_CKSYWY_rig_v1_Shoulder_R
+    400150: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L
+    400152: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R
+    400154: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L
+    400156: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R
+    400158: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L
+    400160: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R
+    400162: FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_L
+    400164: FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_R
+    400166: FCZ_ex_CKSYWY_rig_v1_Wrist_L
+    400168: FCZ_ex_CKSYWY_rig_v1_Wrist_R
+    4300000: FCZ_ex_CKSYWY_rig_v1_body
+    7400000: idle
+    7400002: run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: FCZ_ex_CKSYWY_rig_v1_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_body
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M/FCZ_ex_CKSYWY_rig_v1_Head_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M/FCZ_ex_CKSYWY_rig_v1_Head_M/FCZ_ex_CKSYWY_rig_v1_Hair_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M/FCZ_ex_CKSYWY_rig_v1_Head_M/FCZ_ex_CKSYWY_rig_v1_Nose_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L/FCZ_ex_CKSYWY_rig_v1_RingFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L/FCZ_ex_CKSYWY_rig_v1_RingFinger2_L/FCZ_ex_CKSYWY_rig_v1_RingFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L/FCZ_ex_CKSYWY_rig_v1_RingFinger2_L/FCZ_ex_CKSYWY_rig_v1_RingFinger3_L/FCZ_ex_CKSYWY_rig_v1_RingFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R/FCZ_ex_CKSYWY_rig_v1_RingFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R/FCZ_ex_CKSYWY_rig_v1_RingFinger2_R/FCZ_ex_CKSYWY_rig_v1_RingFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R/FCZ_ex_CKSYWY_rig_v1_RingFinger2_R/FCZ_ex_CKSYWY_rig_v1_RingFinger3_R/FCZ_ex_CKSYWY_rig_v1_RingFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L/FCZ_ex_CKSYWY_rig_v1_Ankle_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L/FCZ_ex_CKSYWY_rig_v1_Ankle_L/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L/FCZ_ex_CKSYWY_rig_v1_Ankle_L/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L/FCZ_ex_CKSYWY_rig_v1_MiddleToe2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R/FCZ_ex_CKSYWY_rig_v1_Ankle_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R/FCZ_ex_CKSYWY_rig_v1_Ankle_R/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R/FCZ_ex_CKSYWY_rig_v1_Ankle_R/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R/FCZ_ex_CKSYWY_rig_v1_MiddleToe2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M/FCZ_ex_CKSYWY_rig_v1_FKXRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M/FCZ_ex_CKSYWY_rig_v1_FKXRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerStabalizeRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M/FCZ_ex_CKSYWY_rig_v1_FKXRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerStabalizeRoot_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetBackA_M
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 125
+      lastFrame: 197
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_body
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M/FCZ_ex_CKSYWY_rig_v1_Head_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M/FCZ_ex_CKSYWY_rig_v1_Head_M/FCZ_ex_CKSYWY_rig_v1_Hair_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Neck_M/FCZ_ex_CKSYWY_rig_v1_Head_M/FCZ_ex_CKSYWY_rig_v1_Nose_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L/FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L/FCZ_ex_CKSYWY_rig_v1_RingFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L/FCZ_ex_CKSYWY_rig_v1_RingFinger2_L/FCZ_ex_CKSYWY_rig_v1_RingFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_Cup_L/FCZ_ex_CKSYWY_rig_v1_RingFinger1_L/FCZ_ex_CKSYWY_rig_v1_RingFinger2_L/FCZ_ex_CKSYWY_rig_v1_RingFinger3_L/FCZ_ex_CKSYWY_rig_v1_RingFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L/FCZ_ex_CKSYWY_rig_v1_IndexFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L/FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_L/FCZ_ex_CKSYWY_rig_v1_Shoulder_L/FCZ_ex_CKSYWY_rig_v1_Elbow_L/FCZ_ex_CKSYWY_rig_v1_Wrist_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L/FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R/FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R/FCZ_ex_CKSYWY_rig_v1_RingFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R/FCZ_ex_CKSYWY_rig_v1_RingFinger2_R/FCZ_ex_CKSYWY_rig_v1_RingFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_Cup_R/FCZ_ex_CKSYWY_rig_v1_RingFinger1_R/FCZ_ex_CKSYWY_rig_v1_RingFinger2_R/FCZ_ex_CKSYWY_rig_v1_RingFinger3_R/FCZ_ex_CKSYWY_rig_v1_RingFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R/FCZ_ex_CKSYWY_rig_v1_IndexFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R/FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_BackA_M/FCZ_ex_CKSYWY_rig_v1_BackB_M/FCZ_ex_CKSYWY_rig_v1_Chest_M/FCZ_ex_CKSYWY_rig_v1_Scapula_R/FCZ_ex_CKSYWY_rig_v1_Shoulder_R/FCZ_ex_CKSYWY_rig_v1_Elbow_R/FCZ_ex_CKSYWY_rig_v1_Wrist_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R/FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L/FCZ_ex_CKSYWY_rig_v1_Ankle_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L/FCZ_ex_CKSYWY_rig_v1_Ankle_L/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_L/FCZ_ex_CKSYWY_rig_v1_Knee_L/FCZ_ex_CKSYWY_rig_v1_Ankle_L/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L/FCZ_ex_CKSYWY_rig_v1_MiddleToe2_L
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R/FCZ_ex_CKSYWY_rig_v1_Ankle_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R/FCZ_ex_CKSYWY_rig_v1_Ankle_R/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_DeformationSystem/FCZ_ex_CKSYWY_rig_v1_Root_M/FCZ_ex_CKSYWY_rig_v1_Hip_R/FCZ_ex_CKSYWY_rig_v1_Knee_R/FCZ_ex_CKSYWY_rig_v1_Ankle_R/FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R/FCZ_ex_CKSYWY_rig_v1_MiddleToe2_R
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M/FCZ_ex_CKSYWY_rig_v1_FKXRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M/FCZ_ex_CKSYWY_rig_v1_FKXRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerStabalizeRoot_M
+        weight: 1
+      - path: FCZ_ex_CKSYWY_rig_v1_Main/FCZ_ex_CKSYWY_rig_v1_MotionSystem/FCZ_ex_CKSYWY_rig_v1_FKSystem/FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M/FCZ_ex_CKSYWY_rig_v1_CenterOffset_M/FCZ_ex_CKSYWY_rig_v1_CenterExtra_M/FCZ_ex_CKSYWY_rig_v1_Center_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M/FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M/FCZ_ex_CKSYWY_rig_v1_FKRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M/FCZ_ex_CKSYWY_rig_v1_FKXRoot_M/FCZ_ex_CKSYWY_rig_v1_HipSwingerStabalizeRoot_M/FCZ_ex_CKSYWY_rig_v1_FKOffsetBackA_M
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Root_M
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_BackA_M
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_BackB_M
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Neck_M
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Head_M
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Scapula_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Scapula_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Shoulder_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Shoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Hair_M
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_Nose_M
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_RingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_RingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_RingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_RingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_RingFinger2_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_RingFinger3_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BGY_daiji(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_DeformationSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Root_M
+      position: {x: -0, y: 0.88252366, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_BackA_M
+      position: {x: -0.11701831, y: -3.9945524e-18, z: 3.517325e-17}
+      rotation: {x: -0.00040492415, y: 0.0020556152, z: 0.009311467, w: 0.99995446}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_BackB_M
+      position: {x: -0.11701831, y: 3.7747583e-17, z: -2.8310687e-17}
+      rotation: {x: -0.0020492745, y: 0.008206656, z: 0.030351002, w: 0.99950355}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Chest_M
+      position: {x: -0.101891354, y: -3.5527136e-17, z: -4.8849813e-17}
+      rotation: {x: -0, y: -0, z: -1.3096724e-10, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Scapula_R
+      position: {x: -0.10529727, y: 3.5527136e-17, z: -0.04085006}
+      rotation: {x: -0.49358374, y: 0.45445624, z: -0.5022626, w: -0.5455061}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Shoulder_R
+      position: {x: -0.11356664, y: -2.7327246e-10, z: -1.2233105e-10}
+      rotation: {x: 0.024482176, y: -0.047513574, z: 0.07806417, w: 0.9955145}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Elbow_R
+      position: {x: -0.29247382, y: 3.5527135e-16, z: -9.470308e-10}
+      rotation: {x: 0.0007782056, y: -0.03983662, z: -0.011219005, w: 0.999143}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1.0000004}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Wrist_R
+      position: {x: -0.22853982, y: -1.4210854e-16, z: 0}
+      rotation: {x: -0.00000014934439, y: 0.043619346, z: 0.0000001363151, w: 0.9990483}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_R
+      position: {x: -0.10752436, y: -0.001829347, z: 0.00031892417}
+      rotation: {x: -0.026289135, y: -0.0019088085, z: 0.076039754, w: 0.99675643}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_R
+      position: {x: -0.03945451, y: -0.00066334696, z: 0.000069536254}
+      rotation: {x: -0.02410726, y: -0.0026218784, z: -0.01355105, w: 0.9996141}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000007}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_R
+      position: {x: -0.029356277, y: -0.0032620367, z: 0.00018802713}
+      rotation: {x: -0.023831822, y: -0.0013050962, z: 0.0063404306, w: 0.99969506}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999996}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_R
+      position: {x: -0.031379346, y: -0.005313351, z: 0.00014807344}
+      rotation: {x: -0.023238966, y: 0.004215468, z: 0.1784347, w: 0.98366827}
+      scale: {x: 1.0000002, y: 0.99999946, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_R
+      position: {x: -0.03934586, y: -0.020538578, z: -0.025294311}
+      rotation: {x: -0.67604536, y: -0.31922314, z: -0.15503925, w: 0.6457726}
+      scale: {x: 0.9999996, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_R
+      position: {x: -0.033956584, y: -5.28298e-10, z: -2.4868996e-16}
+      rotation: {x: 0.010340297, y: 0.039328463, z: 0.069765344, w: 0.99673426}
+      scale: {x: 1.0000006, y: 0.9999992, z: 0.99999994}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_R
+      position: {x: -0.02512623, y: 0.0015928262, z: -0.002113038}
+      rotation: {x: 0.0048637297, y: -0.03251287, z: -0.024162931, w: 0.9991674}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000008}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_R
+      position: {x: -0.03071124, y: -0.0016712821, z: -0.000000040162675}
+      rotation: {x: 0.00000009977633, y: -0.00000009663789, z: 0.09399348, w: 0.9955728}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_R
+      position: {x: -0.10417251, y: -0.006969144, z: -0.02162844}
+      rotation: {x: -0.006363692, y: -0.008465582, z: 0.0834723, w: 0.9964539}
+      scale: {x: 1.0000001, y: 0.9999993, z: 0.99999917}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_R
+      position: {x: -0.030903395, y: -8.076206e-12, z: -1.0111165e-11}
+      rotation: {x: -0.0012430735, y: -0.00834905, z: -0.012463285, w: 0.9998867}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_R
+      position: {x: -0.025665008, y: -0.0023804447, z: 0.00051595044}
+      rotation: {x: -0.00062081503, y: 0.020605216, z: 0.061264835, w: 0.99790865}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000014}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger4_R
+      position: {x: -0.031370427, y: -0.0012165002, z: -0.001893957}
+      rotation: {x: 0.00000002294957, y: 0.0000000040438612, z: 0.14728022, w: 0.98909485}
+      scale: {x: 1.0000006, y: 0.99999964, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Cup_R
+      position: {x: -0.014216284, y: -0.00016870118, z: 0.008279625}
+      rotation: {x: -0.026978018, y: 0.050733905, z: -0.024336455, w: 0.99805117}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_R
+      position: {x: -0.08954727, y: 0.0031177066, z: 0.026197344}
+      rotation: {x: 0.015135686, y: -0.023857364, z: 0.078892425, w: 0.99648273}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000007}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_R
+      position: {x: -0.026435448, y: -0.001268291, z: 0.000116671436}
+      rotation: {x: 0.00014376629, y: 0.0069808527, z: 0.024897402, w: 0.9996656}
+      scale: {x: 0.99999994, y: 1.0000008, z: 1.0000008}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_R
+      position: {x: -0.021898462, y: -0.0015303857, z: -0.00030093532}
+      rotation: {x: 0.0014097289, y: -0.00772642, z: -0.020591049, w: 0.99975723}
+      scale: {x: 1.0000002, y: 1.0000013, z: 1.0000012}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_R
+      position: {x: -0.027320167, y: -0.005039179, z: 0.00018426387}
+      rotation: {x: 0.000000055435066, y: -0.000000026064457, z: 0.14865041, w: 0.9888898}
+      scale: {x: 0.99999994, y: 1.0000008, z: 1.000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger1_R
+      position: {x: -0.09004155, y: 0.001975286, z: 0.0067664688}
+      rotation: {x: 0.007122969, y: -0.027030813, z: 0.08209194, w: 0.9962327}
+      scale: {x: 1.0000005, y: 0.9999997, z: 1.0000006}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger2_R
+      position: {x: -0.038627505, y: -0.0018919238, z: -0.0000125229835}
+      rotation: {x: -0.00042117547, y: -0.0033923273, z: -0.0015891539, w: 0.99999297}
+      scale: {x: 0.9999993, y: 1.0000008, z: 1.0000005}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger3_R
+      position: {x: -0.025367483, y: -0.0029715553, z: 0.0001909691}
+      rotation: {x: -0.00085721404, y: 0.00416366, z: -0.03060748, w: 0.9995225}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000008}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger4_R
+      position: {x: -0.031885333, y: -0.008271095, z: -0.00017844612}
+      rotation: {x: -0.00000010386395, y: -0.000000001245025, z: 0.17080534, w: 0.98530483}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000012}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Neck_M
+      position: {x: -0.1952623, y: -7.105427e-17, z: 7.105427e-16}
+      rotation: {x: 0.000000030267984, y: 0.000000028871, z: 0.00000005966467, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000007}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Head_M
+      position: {x: -0.04995404, y: -2.4868996e-16, z: 3.5527136e-17}
+      rotation: {x: -0, y: -0, z: -8.7386695e-16, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000005}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Hair_M
+      position: {x: -0.20303446, y: 4.7329803e-16, z: 7.640909e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000006}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Nose_M
+      position: {x: -0.04634383, y: 0.12845741, z: -1.2440434e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000006}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Scapula_L
+      position: {x: -0.10529727, y: -3.5527136e-17, z: 0.04085006}
+      rotation: {x: 0.45445618, y: 0.49358374, z: 0.5455062, w: -0.5022626}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Shoulder_L
+      position: {x: 0.11356664, y: 2.7327104e-10, z: 1.2233092e-10}
+      rotation: {x: 0.024778571, y: -0.046968423, z: 0.056610055, w: 0.9969831}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Elbow_L
+      position: {x: 0.29247382, y: -1.4210854e-16, z: -1.02140514e-16}
+      rotation: {x: 0.000745734, y: -0.039792385, z: -0.010754599, w: 0.99914986}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Wrist_L
+      position: {x: 0.22853982, y: 4.973799e-16, z: -7.105427e-17}
+      rotation: {x: 0.000000060589514, y: 0.043619495, z: 0.00000015635247, w: 0.9990483}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger1_L
+      position: {x: 0.10752436, y: 0.001829347, z: -0.00031892417}
+      rotation: {x: 0.026289197, y: 0.0019096949, z: -0.07603859, w: -0.9967565}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger2_L
+      position: {x: 0.03945451, y: 0.00066334696, z: -0.00006953625}
+      rotation: {x: -0.024107644, y: -0.0026216598, z: -0.013550089, w: 0.9996141}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.9999997}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger3_L
+      position: {x: 0.029356277, y: 0.0032620367, z: -0.00018802712}
+      rotation: {x: -0.023831708, y: -0.0013044119, z: 0.006340678, w: 0.999695}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleFinger4_L
+      position: {x: 0.031379346, y: 0.005313351, z: -0.00014807344}
+      rotation: {x: -0.023238927, y: 0.0042154514, z: 0.17843473, w: 0.98366827}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger1_L
+      position: {x: 0.03934586, y: 0.020538578, z: 0.025294311}
+      rotation: {x: -0.6927144, y: -0.2848491, z: -0.17038414, w: 0.6402945}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger2_L
+      position: {x: 0.033956584, y: 0, z: -2.4868996e-16}
+      rotation: {x: -0.010340239, y: -0.039328333, z: -0.06976721, w: -0.9967341}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger3_L
+      position: {x: 0.02512623, y: -0.0015928267, z: 0.002113038}
+      rotation: {x: 0.004863781, y: -0.032510363, z: -0.024159992, w: 0.9991675}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000005}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_ThumbFinger4_L
+      position: {x: 0.03071124, y: 0.0016712821, z: 0.000000040162675}
+      rotation: {x: -0.000000029993693, y: 9.099388e-10, z: 0.09399358, w: 0.99557287}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000006}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger1_L
+      position: {x: 0.10417251, y: 0.006969144, z: 0.02162844}
+      rotation: {x: 0.006363832, y: 0.008465875, z: -0.08347105, w: -0.99645394}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger2_L
+      position: {x: 0.030903395, y: 8.076242e-12, z: 1.0111307e-11}
+      rotation: {x: -0.00124331, y: -0.008349393, z: -0.012463706, w: 0.9998867}
+      scale: {x: 1, y: 1.0000004, z: 0.99999994}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger3_L
+      position: {x: 0.025665008, y: 0.0023804447, z: -0.00051595044}
+      rotation: {x: -0.00062068866, y: 0.020605983, z: 0.061265025, w: 0.9979087}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_IndexFinger4_L
+      position: {x: 0.031370427, y: 0.0012165002, z: 0.001893957}
+      rotation: {x: -0.0000000638483, y: 0.00000005914901, z: 0.14728023, w: 0.9890948}
+      scale: {x: 1.0000002, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Cup_L
+      position: {x: 0.014216284, y: 0.00016870118, z: -0.008279625}
+      rotation: {x: -0.00024964925, y: 0.0404841, z: 0.0059331646, w: 0.99916255}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger1_L
+      position: {x: 0.08954727, y: -0.0031177066, z: -0.026197344}
+      rotation: {x: -0.012895847, y: 0.019415895, z: -0.05048803, w: -0.99845266}
+      scale: {x: 1.0000001, y: 0.9999997, z: 0.99999976}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger2_L
+      position: {x: 0.026435448, y: 0.001268291, z: -0.00011667142}
+      rotation: {x: 0.00014363874, y: 0.0069814124, z: 0.024893967, w: 0.99966574}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger3_L
+      position: {x: 0.021898462, y: 0.0015303857, z: 0.00030093532}
+      rotation: {x: 0.0014100034, y: -0.0077272677, z: -0.020588072, w: 0.99975723}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_PinkyFinger4_L
+      position: {x: 0.027320167, y: 0.005039179, z: -0.00018426387}
+      rotation: {x: 0.0000001501894, y: 4.724664e-10, z: 0.14865068, w: 0.98888975}
+      scale: {x: 0.99999976, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger1_L
+      position: {x: 0.09004155, y: -0.001975286, z: -0.0067664688}
+      rotation: {x: -0.0060926396, y: 0.023151485, z: -0.053437386, w: -0.9982843}
+      scale: {x: 1, y: 0.9999997, z: 0.99999976}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger2_L
+      position: {x: 0.038627505, y: 0.0018919238, z: 0.000012522996}
+      rotation: {x: -0.00042123234, y: -0.0033932666, z: -0.0015860653, w: 0.99999297}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.99999994}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger3_L
+      position: {x: 0.025367483, y: 0.0029715553, z: -0.00019096909}
+      rotation: {x: -0.0008573792, y: 0.0041640075, z: -0.03061321, w: 0.99952227}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RingFinger4_L
+      position: {x: 0.031885333, y: 0.008271095, z: 0.00017844612}
+      rotation: {x: 0.000000047177366, y: -0.000000008513385, z: 0.17080538, w: 0.9853048}
+      scale: {x: 1, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Hip_R
+      position: {x: 0.05217727, y: 0.015223623, z: -0.0722098}
+      rotation: {x: -0.034060072, y: 0.015606627, z: -0.9992398, w: 0.010775238}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Knee_R
+      position: {x: -0.40512308, y: -9.325873e-17, z: 2.3980816e-16}
+      rotation: {x: 0.000000073458075, y: -0.000000037922295, z: -0.041997045, w: 0.99911773}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Ankle_R
+      position: {x: -0.35282087, y: 6.217249e-16, z: 3.1086244e-16}
+      rotation: {x: -0.09503436, y: -0.037099063, z: -0.028286893, w: -0.99438024}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000001}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_R
+      position: {x: -0.051213916, y: -0.07263882, z: -0.000049534647}
+      rotation: {x: 0.006378494, y: -0.01524074, z: 0.68555987, w: 0.72782874}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000007}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleToe2_R
+      position: {x: -0.1236309, y: -1.1546319e-16, z: -3.5527136e-17}
+      rotation: {x: 0.0028266888, y: 0.016022185, z: -0.17371896, w: 0.9846609}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Hip_L
+      position: {x: 0.05217727, y: 0.015223623, z: 0.0722098}
+      rotation: {x: 0.015606537, y: 0.03406009, z: -0.010775238, w: -0.99923986}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Knee_L
+      position: {x: 0.40512308, y: 3.5527135e-16, z: -1.2434498e-16}
+      rotation: {x: 0.000000013969839, y: -0.000000007450581, z: -0.041997056, w: 0.9991178}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000006}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Ankle_L
+      position: {x: 0.35282087, y: -5.87308e-16, z: -1.4210854e-16}
+      rotation: {x: 0.09503437, y: 0.037099015, z: 0.028286919, w: 0.99438024}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleToe1_L
+      position: {x: 0.051213916, y: 0.07263882, z: 0.000049534727}
+      rotation: {x: -0.006378508, y: 0.015240695, z: -0.6855599, w: -0.7278288}
+      scale: {x: 1.0000005, y: 0.9999995, z: 1.0000002}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MiddleToe2_L
+      position: {x: 0.1236309, y: 3.2862602e-16, z: 0}
+      rotation: {x: 0.0028266932, y: 0.016022198, z: -0.17371906, w: 0.9846609}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_MotionSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_FKSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_RootCenterBtwLegsBlended_M
+      position: {x: -0, y: 0.8902652, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_CenterOffset_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_CenterExtra_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_Center_M
+      position: {x: -0, y: -0.0077415514, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_FKOffsetRoot_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_FKExtraRoot_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_FKRoot_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_HipSwingerGroupRoot_M
+      position: {x: -0.11701831, y: -3.9945524e-18, z: 3.517325e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_FKXRoot_M
+      position: {x: 0.11701831, y: 3.9945524e-18, z: -3.517325e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_HipSwingerStabalizeRoot_M
+      position: {x: -0.11701831, y: -3.9945524e-18, z: 3.517325e-17}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FCZ_ex_CKSYWY_rig_v1_FKOffsetBackA_M
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

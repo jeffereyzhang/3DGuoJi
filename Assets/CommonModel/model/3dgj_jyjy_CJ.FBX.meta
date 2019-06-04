@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 8d8e5450d1c3df4438d31360f42024be
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' 3dgj_jyjy_CJ00'
+    100002: ' 3dgj_jyjy_CJ01'
+    100004: ' 3dgj_jyjy_CJ02'
+    100006: ' 3dgj_jyjy_CJ03'
+    100008: ' 3dgj_jyjy_CJ04'
+    100010: ' 3dgj_jyjy_CJ05'
+    100012: ' 3dgj_jyjy_CJ06'
+    100014: ' 3dgj_jyjy_CJ08'
+    100016: ' 3dgj_jyjy_CJ09'
+    100018: ' 3dgj_jyjy_CJ10'
+    100020: ' 3dgj_jyjy_CJ11'
+    100022: ' 3dgj_jyjy_CJ12'
+    100024: ' 3dgj_jyjy_CJ13'
+    100026: ' 3dgj_jyjy_CJ14'
+    100028: ' 3dgj_jyjy_CJ15'
+    100030: ' 3dgj_jyjy_CJ16'
+    100032: ' 3dgj_jyjy_CJ17'
+    100034: ' 3dgj_jyjy_CJ18'
+    100036: ' 3dgj_jyjy_CJ20'
+    100038: //RootNode
+    100040: ' 3dgj_jyjy_CJ'
+    400000: ' 3dgj_jyjy_CJ00'
+    400002: ' 3dgj_jyjy_CJ01'
+    400004: ' 3dgj_jyjy_CJ02'
+    400006: ' 3dgj_jyjy_CJ03'
+    400008: ' 3dgj_jyjy_CJ04'
+    400010: ' 3dgj_jyjy_CJ05'
+    400012: ' 3dgj_jyjy_CJ06'
+    400014: ' 3dgj_jyjy_CJ08'
+    400016: ' 3dgj_jyjy_CJ09'
+    400018: ' 3dgj_jyjy_CJ10'
+    400020: ' 3dgj_jyjy_CJ11'
+    400022: ' 3dgj_jyjy_CJ12'
+    400024: ' 3dgj_jyjy_CJ13'
+    400026: ' 3dgj_jyjy_CJ14'
+    400028: ' 3dgj_jyjy_CJ15'
+    400030: ' 3dgj_jyjy_CJ16'
+    400032: ' 3dgj_jyjy_CJ17'
+    400034: ' 3dgj_jyjy_CJ18'
+    400036: ' 3dgj_jyjy_CJ20'
+    400038: //RootNode
+    400040: ' 3dgj_jyjy_CJ'
+    2300000: ' 3dgj_jyjy_CJ00'
+    2300002: ' 3dgj_jyjy_CJ01'
+    2300004: ' 3dgj_jyjy_CJ02'
+    2300006: ' 3dgj_jyjy_CJ03'
+    2300008: ' 3dgj_jyjy_CJ04'
+    2300010: ' 3dgj_jyjy_CJ05'
+    2300012: ' 3dgj_jyjy_CJ06'
+    2300014: ' 3dgj_jyjy_CJ08'
+    2300016: ' 3dgj_jyjy_CJ09'
+    2300018: ' 3dgj_jyjy_CJ10'
+    2300020: ' 3dgj_jyjy_CJ11'
+    2300022: ' 3dgj_jyjy_CJ12'
+    2300024: ' 3dgj_jyjy_CJ13'
+    2300026: ' 3dgj_jyjy_CJ14'
+    2300028: ' 3dgj_jyjy_CJ15'
+    2300030: ' 3dgj_jyjy_CJ16'
+    2300032: ' 3dgj_jyjy_CJ17'
+    2300034: ' 3dgj_jyjy_CJ18'
+    2300036: ' 3dgj_jyjy_CJ20'
+    2300038: //RootNode
+    2300040: ' 3dgj_jyjy_CJ'
+    3300000: ' 3dgj_jyjy_CJ00'
+    3300002: ' 3dgj_jyjy_CJ01'
+    3300004: ' 3dgj_jyjy_CJ02'
+    3300006: ' 3dgj_jyjy_CJ03'
+    3300008: ' 3dgj_jyjy_CJ04'
+    3300010: ' 3dgj_jyjy_CJ05'
+    3300012: ' 3dgj_jyjy_CJ06'
+    3300014: ' 3dgj_jyjy_CJ08'
+    3300016: ' 3dgj_jyjy_CJ09'
+    3300018: ' 3dgj_jyjy_CJ10'
+    3300020: ' 3dgj_jyjy_CJ11'
+    3300022: ' 3dgj_jyjy_CJ12'
+    3300024: ' 3dgj_jyjy_CJ13'
+    3300026: ' 3dgj_jyjy_CJ14'
+    3300028: ' 3dgj_jyjy_CJ15'
+    3300030: ' 3dgj_jyjy_CJ16'
+    3300032: ' 3dgj_jyjy_CJ17'
+    3300034: ' 3dgj_jyjy_CJ18'
+    3300036: ' 3dgj_jyjy_CJ20'
+    3300038: //RootNode
+    3300040: ' 3dgj_jyjy_CJ'
+    4300000: ' 3dgj_jyjy_CJ14'
+    4300002: ' 3dgj_jyjy_CJ15'
+    4300004: ' 3dgj_jyjy_CJ13'
+    4300006: ' 3dgj_jyjy_CJ11'
+    4300008: ' 3dgj_jyjy_CJ12'
+    4300010: ' 3dgj_jyjy_CJ20'
+    4300012: ' 3dgj_jyjy_CJ18'
+    4300014: ' 3dgj_jyjy_CJ16'
+    4300016: ' 3dgj_jyjy_CJ17'
+    4300018: ' 3dgj_jyjy_CJ10'
+    4300020: ' 3dgj_jyjy_CJ03'
+    4300022: ' 3dgj_jyjy_CJ04'
+    4300024: ' 3dgj_jyjy_CJ02'
+    4300026: ' 3dgj_jyjy_CJ00'
+    4300028: ' 3dgj_jyjy_CJ01'
+    4300030: ' 3dgj_jyjy_CJ08'
+    4300032: ' 3dgj_jyjy_CJ09'
+    4300034: ' 3dgj_jyjy_CJ05'
+    4300036: ' 3dgj_jyjy_CJ06'
+    4300038: ' 3dgj_jyjy_CJ'
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
